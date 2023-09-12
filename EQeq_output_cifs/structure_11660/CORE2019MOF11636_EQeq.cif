@@ -1,0 +1,67 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	6.6687
+_cell_length_b	12.245
+_cell_length_c	9.0305
+_cell_angle_alpha	90
+_cell_angle_beta	110.439
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_N 	N 	0.418	0.1234	0.1468	-0.104
+Mof_N 	N 	0.209	0.1248	0.1406	-0.167
+Mof_N 	N 	0.522	0.1964	0.2489	-0.039
+Mof_C 	C 	0.204	0.2018	0.2425	0.134
+Mof_N 	N 	0.399	0.2479	0.3127	-0.152
+Mof_N 	N 	0.9971	0.2336	0.27	-0.289
+Mof_H 	H 	0.879	0.2011	0.2185	0.199
+Mof_H 	H 	0.9993	0.284	0.337	0.247
+Mof_F 	F 	0.2041	0.3842	0.5206	-0.607
+Mof_N 	N 	0.582	0.1234	0.8532	-0.053
+Mof_N 	N 	0.791	0.1248	0.8594	-0.095
+Mof_N 	N 	0.478	0.1964	0.7511	-0.033
+Mof_C 	C 	0.796	0.2018	0.7575	0.304
+Mof_N 	N 	0.601	0.2479	0.6873	-0.165
+Mof_N 	N 	0.0029	0.2336	0.73	-0.379
+Mof_H 	H 	0.121	0.2011	0.7815	0.217
+Mof_H 	H 	0.0007	0.284	0.663	0.195
+Mof_F 	F 	0.7959	0.3842	0.4794	-0.542
+Mof_N 	N 	0.582	0.8766	0.8532	-0.045
+Mof_N 	N 	0.791	0.8752	0.8594	-0.087
+Mof_N 	N 	0.478	0.8036	0.7511	-0.03
+Mof_C 	C 	0.796	0.7982	0.7575	0.308
+Mof_N 	N 	0.601	0.7521	0.6873	-0.164
+Mof_N 	N 	0.0029	0.7664	0.73	-0.379
+Mof_H 	H 	0.121	0.7989	0.7815	0.222
+Mof_H 	H 	0.0007	0.716	0.663	0.197
+Mof_F 	F 	0.7959	0.6158	0.4794	-0.542
+Mof_N 	N 	0.418	0.8766	0.1468	-0.09
+Mof_N 	N 	0.209	0.8752	0.1406	-0.155
+Mof_N 	N 	0.522	0.8036	0.2489	-0.034
+Mof_C 	C 	0.204	0.7982	0.2425	0.141
+Mof_N 	N 	0.399	0.7521	0.3127	-0.151
+Mof_N 	N 	0.9971	0.7664	0.27	-0.29
+Mof_H 	H 	0.879	0.7989	0.2185	0.206
+Mof_H 	H 	0.9993	0.716	0.337	0.249
+Mof_F 	F 	0.2041	0.6158	0.5206	-0.606
+Mof_Fe	Fe	0.5	0	-0	0.712
+Mof_F 	F 	0.19	0	0.8639	-0.505
+Mof_F 	F 	0.81	0	0.1361	-0.521
+Mof_Fe	Fe	-0	0	-0	0.559
+Mof_Fe	Fe	0.5	0.36593	0.5	1.021
+Mof_Fe	Fe	0.5	0.63407	0.5	1.024
+Mof_O 	O 	0.587	0.5	0.6606	-0.245
+Mof_F 	F 	0.413	0.5	0.3394	-0.524
+Mof_Fe	Fe	4.11318e-17	0.5	0.5	1.058
+_end

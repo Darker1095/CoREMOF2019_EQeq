@@ -1,0 +1,66 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	11.4303
+_cell_length_b	8.8546
+_cell_length_c	15.6
+_cell_angle_alpha	90
+_cell_angle_beta	114.81
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Ag	Ag	0.294	0.00744	0.06683	0.381
+Mof_Ag	Ag	0.20123	0.53805	0.87973	0.424
+Mof_N 	N 	0.2426	0.2157	0.9948	-0.178
+Mof_N 	N 	0.4075	0.8135	0.05406	-0.164
+Mof_N 	N 	0.2837	0.5403	0.7089	-0.172
+Mof_N 	N 	0.0917	0.713	0.9194	-0.183
+Mof_C 	C 	0.2144	0.3283	0.9613	-0.105
+Mof_C 	C 	0.4417	0.7043	0.0355	-0.126
+Mof_C 	C 	0.2568	0.5417	0.764	-0.115
+Mof_C 	C 	0.0593	0.8142	0.949	-0.072
+Mof_Ag	Ag	0.706	0.50744	0.43317	0.47
+Mof_Ag	Ag	0.79877	0.03805	0.62027	0.406
+Mof_N 	N 	0.7574	0.7157	0.5052	-0.196
+Mof_N 	N 	0.5925	0.3135	0.44594	-0.176
+Mof_N 	N 	0.7163	0.0403	0.7911	-0.181
+Mof_N 	N 	0.9083	0.213	0.5806	-0.173
+Mof_C 	C 	0.7856	0.8283	0.5387	-0.076
+Mof_C 	C 	0.5583	0.2043	0.4645	-0.121
+Mof_C 	C 	0.7432	0.0417	0.736	-0.103
+Mof_C 	C 	0.9407	0.3142	0.551	-0.096
+Mof_Ag	Ag	0.706	0.99256	0.93317	0.551
+Mof_Ag	Ag	0.79877	0.46195	0.12027	0.416
+Mof_N 	N 	0.7574	0.7843	0.0052	-0.203
+Mof_N 	N 	0.5925	0.1865	0.94594	-0.188
+Mof_N 	N 	0.7163	0.4597	0.2911	-0.173
+Mof_N 	N 	0.9083	0.287	0.0806	-0.18
+Mof_C 	C 	0.7856	0.6717	0.0387	-0.095
+Mof_C 	C 	0.5583	0.2957	0.9645	-0.097
+Mof_C 	C 	0.7432	0.4583	0.236	-0.108
+Mof_C 	C 	0.9407	0.1858	0.051	-0.092
+Mof_Ag	Ag	0.294	0.49256	0.56683	0.447
+Mof_Ag	Ag	0.20123	0.96195	0.37973	0.435
+Mof_N 	N 	0.2426	0.2843	0.4948	-0.192
+Mof_N 	N 	0.4075	0.6865	0.55406	-0.176
+Mof_N 	N 	0.2837	0.9597	0.2089	-0.158
+Mof_N 	N 	0.0917	0.787	0.4194	-0.175
+Mof_C 	C 	0.2144	0.1717	0.4613	-0.132
+Mof_C 	C 	0.4417	0.7957	0.5355	-0.105
+Mof_C 	C 	0.2568	0.9583	0.264	-0.113
+Mof_C 	C 	0.0593	0.6858	0.449	-0.13
+Mof_Ag	Ag	-0	0	-0	0.173
+Mof_Ag	Ag	3.63218e-33	0.5	0.5	0.272
+Mof_Ag	Ag	0.5	0.5	-0	0.288
+Mof_Ag	Ag	0.5	-8.80694e-33	0.5	0.291
+_end

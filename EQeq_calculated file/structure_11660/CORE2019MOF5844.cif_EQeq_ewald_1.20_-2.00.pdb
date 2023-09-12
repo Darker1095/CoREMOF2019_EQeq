@@ -1,0 +1,56 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     8.44     9.26    13.84  81.12  83.64  72.65 P1
+ATOM      1 Zn   MOL A   0       8.382   5.198   6.456  1.23                Zn
+ATOM      2 Zn   MOL A   0       7.690   2.446  13.379  1.24                Zn
+ATOM      3 Zn   MOL A   0       3.942   1.649   5.104  1.24                Zn
+ATOM      4 P    MOL A   0      10.194   6.150   8.852  0.58                P 
+ATOM      5 P    MOL A   0       4.085   1.437   1.856  0.57                P 
+ATOM      6 P    MOL A   0      10.605   7.137   1.053  0.57                P 
+ATOM      7 P    MOL A   0       6.302   2.836   7.096  0.55                P 
+ATOM      8 O    MOL A   0       9.107   5.276   8.231 -0.46                O 
+ATOM      9 O    MOL A   0       3.127   5.520   8.670 -0.43                O 
+ATOM     10 O    MOL A   0       7.535   3.449   6.414 -0.42                O 
+ATOM     11 O    MOL A   0       5.455   3.920   7.773 -0.46                O 
+ATOM     12 O    MOL A   0       5.105   1.889   0.825 -0.42                O 
+ATOM     13 O    MOL A   0       9.718   8.359   1.044 -0.44                O 
+ATOM     14 O    MOL A   0       6.290   8.885   1.585 -0.45                O 
+ATOM     15 O    MOL A   0       3.607   7.440   1.402 -0.41                O 
+ATOM     16 O    MOL A   0       5.554   2.050   6.033 -0.48                O 
+ATOM     17 O    MOL A   0      10.142   7.588   8.363 -0.47                O 
+ATOM     18 O    MOL A   0       6.789   1.868   8.207 -0.41                O 
+ATOM     19 O    MOL A   0       4.676   1.519   3.265 -0.41                O 
+ATOM     20 O    MOL A   0       9.904   6.148  10.399 -0.52                O 
+ATOM     21 H    MOL A   0      10.346   5.558  10.759  0.36                H 
+ATOM     22 O    MOL A   0       2.837   2.412   1.775 -0.52                O 
+ATOM     23 H    MOL A   0       2.948   3.041   2.288  0.34                H 
+ATOM     24 O    MOL A   0      10.020   6.162   2.063 -0.25                O 
+ATOM     25 O    MOL A   0       3.730   8.250  13.263 -0.46                O 
+ATOM     26 H    MOL A   0      11.422   8.287  12.928  0.30                H 
+ATOM     27 Zn   MOL A   0       4.354   5.404   7.189  1.24                Zn
+ATOM     28 Zn   MOL A   0       5.047   8.155   0.265  1.24                Zn
+ATOM     29 Zn   MOL A   0       8.794   8.953   8.541  1.24                Zn
+ATOM     30 P    MOL A   0       2.542   4.451   4.793  0.58                P 
+ATOM     31 P    MOL A   0       8.651   9.164  11.789  0.57                P 
+ATOM     32 P    MOL A   0       2.132   3.465  12.592  0.57                P 
+ATOM     33 P    MOL A   0       6.435   7.766   6.549  0.55                P 
+ATOM     34 O    MOL A   0       3.629   5.325   5.414 -0.46                O 
+ATOM     35 O    MOL A   0       9.609   5.081   4.975 -0.43                O 
+ATOM     36 O    MOL A   0       5.201   7.153   7.231 -0.42                O 
+ATOM     37 O    MOL A   0       7.281   6.681   5.871 -0.46                O 
+ATOM     38 O    MOL A   0       7.632   8.713  12.820 -0.42                O 
+ATOM     39 O    MOL A   0       3.018   2.243  12.601 -0.44                O 
+ATOM     40 O    MOL A   0       6.447   1.717  12.060 -0.45                O 
+ATOM     41 O    MOL A   0       9.129   3.161  12.243 -0.41                O 
+ATOM     42 O    MOL A   0       7.183   8.552   7.611 -0.48                O 
+ATOM     43 O    MOL A   0       2.594   3.014   5.282 -0.47                O 
+ATOM     44 O    MOL A   0       5.948   8.734   5.438 -0.41                O 
+ATOM     45 O    MOL A   0       8.060   9.082  10.380 -0.41                O 
+ATOM     46 O    MOL A   0       2.833   4.454   3.246 -0.52                O 
+ATOM     47 H    MOL A   0       2.391   5.043   2.886  0.36                H 
+ATOM     48 O    MOL A   0       9.899   8.190  11.870 -0.52                O 
+ATOM     49 H    MOL A   0       9.789   7.560  11.357  0.34                H 
+ATOM     50 O    MOL A   0       2.717   4.439  11.582 -0.25                O 
+ATOM     51 O    MOL A   0       9.006   2.352   0.382 -0.46                O 
+ATOM     52 H    MOL A   0       1.314   2.314   0.716  0.30                H 

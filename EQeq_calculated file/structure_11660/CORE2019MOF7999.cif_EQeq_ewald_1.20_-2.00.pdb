@@ -1,0 +1,27 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     5.51     7.95     7.95  108.10  90.22  90.22 P1
+ATOM      1 Co   MOL A   0       2.753   0.000   0.000  1.12                Co
+ATOM      2 Co   MOL A   0      -0.031  -1.213   6.642  1.06                Co
+ATOM      3 Co   MOL A   0      -0.031   6.690   0.910  1.06                Co
+ATOM      4 H    MOL A   0       0.853   4.498   6.203  0.44                H 
+ATOM      5 H    MOL A   0       4.591   0.979   1.350  0.56                H 
+ATOM      6 C    MOL A   0       1.862  -0.989   4.283 -0.02                C 
+ATOM      7 C    MOL A   0       3.116   6.365   4.650  0.17                C 
+ATOM      8 C    MOL A   0       3.582   1.099   7.162  0.12                C 
+ATOM      9 C    MOL A   0       2.328   3.035   0.058  0.02                C 
+ATOM     10 C    MOL A   0       3.582   6.466   3.270  0.12                C 
+ATOM     11 C    MOL A   0       2.328  -0.888   2.902  0.02                C 
+ATOM     12 C    MOL A   0       1.862   4.379   0.390 -0.02                C 
+ATOM     13 C    MOL A   0       3.116   2.443   7.495  0.17                C 
+ATOM     14 O    MOL A   0       0.807  -0.653   4.858 -0.44                O 
+ATOM     15 O    MOL A   0       3.643   5.930   5.715 -0.31                O 
+ATOM     16 O    MOL A   0       4.637   0.657   6.664 -0.17                O 
+ATOM     17 O    MOL A   0       1.801   1.887   0.140 -0.51                O 
+ATOM     18 O    MOL A   0       4.637   6.131   2.695 -0.17                O 
+ATOM     19 O    MOL A   0       1.801  -0.453   1.837 -0.51                O 
+ATOM     20 O    MOL A   0       0.807   4.821   0.888 -0.44                O 
+ATOM     21 O    MOL A   0       3.643   3.590   7.413 -0.31                O 
+ATOM     22 O    MOL A   0       0.910   4.922   6.787 -0.96                O 
+ATOM     23 O    MOL A   0       4.535   0.555   0.766 -1.00                O 

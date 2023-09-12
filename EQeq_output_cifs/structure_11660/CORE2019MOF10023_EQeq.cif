@@ -1,0 +1,56 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	17.937
+_cell_length_b	6.4299
+_cell_length_c	4.4936
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_O 	O 	0.4176	0.9543	0.704	-0.39
+Mof_O 	O 	0.0824	0.5457	0.704	-0.501
+Mof_O 	O 	0.5824	0.4543	0.296	-0.626
+Mof_O 	O 	0.9176	0.0457	0.296	-0.648
+Mof_O 	O 	0.5824	0.0457	0.296	-0.693
+Mof_O 	O 	0.9176	0.4543	0.296	-0.582
+Mof_O 	O 	0.4176	0.5457	0.704	-0.48
+Mof_O 	O 	0.0824	0.9543	0.704	-0.411
+Mof_Ni	Ni	0.5	0	-0	0.906
+Mof_Ni	Ni	-1.52213e-33	0.5	-0	0.907
+Mof_Ni	Ni	0.5	0.5	-0	0.965
+Mof_Ni	Ni	-0	0	-0	0.847
+Mof_Ni	Ni	0.5917	0.75	0.369	1.058
+Mof_P 	P 	0.4106	0.75	0.513	0.415
+Mof_O 	O 	0.5687	0.75	0.823	-0.405
+Mof_O 	O 	0.4729	0.75	0.262	-0.637
+Mof_C 	C 	0.3227	0.75	0.342	-0.222
+Mof_Ni	Ni	0.9083	0.75	0.369	1.077
+Mof_P 	P 	0.0894	0.75	0.513	0.411
+Mof_O 	O 	0.9313	0.75	0.823	-0.346
+Mof_O 	O 	0.0271	0.75	0.262	-0.691
+Mof_C 	C 	0.1773	0.75	0.342	-0.219
+Mof_Ni	Ni	0.4083	0.25	0.631	1.049
+Mof_P 	P 	0.5894	0.25	0.487	0.389
+Mof_O 	O 	0.4313	0.25	0.177	-0.742
+Mof_O 	O 	0.5271	0.25	0.738	-0.506
+Mof_C 	C 	0.6773	0.25	0.658	-0.064
+Mof_Ni	Ni	0.0917	0.25	0.631	1.034
+Mof_P 	P 	0.9106	0.25	0.487	0.392
+Mof_O 	O 	0.0687	0.25	0.177	-0.775
+Mof_O 	O 	0.9729	0.25	0.738	-0.414
+Mof_C 	C 	0.8227	0.25	0.658	-0.064
+Mof_C 	C 	0.25	0.75	0.537	0.082
+Mof_C 	C 	0.75	0.25	0.463	-0.116
+_end

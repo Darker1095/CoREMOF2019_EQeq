@@ -1,0 +1,53 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.16     9.80     9.87  77.60  89.95  88.06 P1
+ATOM      1 Zn   MOL A   0       7.386   8.699   7.800  1.22                Zn
+ATOM      2 Zn   MOL A   0       6.516   5.557   8.780  1.23                Zn
+ATOM      3 Zn   MOL A   0       2.114   3.213   1.843  1.22                Zn
+ATOM      4 Zn   MOL A   0       2.983   6.356   0.862  1.23                Zn
+ATOM      5 Zn   MOL A   0       0.166   4.896   0.000  1.21                Zn
+ATOM      6 H    MOL A   0       6.855   5.475   0.486  0.15                H 
+ATOM      7 H    MOL A   0       8.453   6.798   4.134  0.05                H 
+ATOM      8 H    MOL A   0       8.543  11.484   8.727  0.03                H 
+ATOM      9 H    MOL A   0       4.703   7.309   4.510  0.09                H 
+ATOM     10 H    MOL A   0       3.843   9.181   0.673  0.14                H 
+ATOM     11 H    MOL A   0       2.644   6.437   9.156  0.21                H 
+ATOM     12 H    MOL A   0       1.047   5.115   5.509  0.14                H 
+ATOM     13 H    MOL A   0       0.956   0.428   0.915  0.14                H 
+ATOM     14 H    MOL A   0       4.796   4.603   5.133  0.10                H 
+ATOM     15 H    MOL A   0       5.657   2.732   8.969  0.03                H 
+ATOM     16 C    MOL A   0       0.299   5.303   2.996  0.29                C 
+ATOM     17 C    MOL A   0       9.077   6.088   4.221  0.02                C 
+ATOM     18 C    MOL A   0       0.737  10.029   9.496  0.33                C 
+ATOM     19 C    MOL A   0       9.278  11.386   9.321  0.06                C 
+ATOM     20 C    MOL A   0       5.626   6.756   6.346  0.39                C 
+ATOM     21 C    MOL A   0       4.917   6.550   5.039 -0.12                C 
+ATOM     22 C    MOL A   0       5.298  10.029   9.456  0.53                C 
+ATOM     23 C    MOL A   0       4.652   9.196   0.175 -0.34                C 
+ATOM     24 C    MOL A   0       9.200   6.610   6.647  0.49                C 
+ATOM     25 C    MOL A   0       0.422   5.825   5.421 -0.28                C 
+ATOM     26 C    MOL A   0       8.763   1.884   0.147  0.48                C 
+ATOM     27 C    MOL A   0       0.222   0.527   0.321 -0.33                C 
+ATOM     28 C    MOL A   0       3.873   5.157   3.297  0.39                C 
+ATOM     29 C    MOL A   0       4.583   5.363   4.603 -0.13                C 
+ATOM     30 C    MOL A   0       4.201   1.884   0.186  0.28                C 
+ATOM     31 C    MOL A   0       4.848   2.716   9.468  0.04                C 
+ATOM     32 O    MOL A   0       7.316   7.236   9.312 -0.71                O 
+ATOM     33 O    MOL A   0       9.038   5.732   1.893 -0.42                O 
+ATOM     34 O    MOL A   0       1.013   4.284   3.165 -0.46                O 
+ATOM     35 O    MOL A   0       9.359   9.051   8.910 -0.50                O 
+ATOM     36 O    MOL A   0       1.773   7.850   0.564 -0.50                O 
+ATOM     37 O    MOL A   0       5.734   7.931   6.757 -0.46                O 
+ATOM     38 O    MOL A   0       6.060   5.702   6.904 -0.48                O 
+ATOM     39 O    MOL A   0       6.433  10.081   8.918 -0.48                O 
+ATOM     40 O    MOL A   0       4.682   6.816   0.028 -0.57                O 
+ATOM     41 O    MOL A   0       2.183   4.677   0.331 -0.79                O 
+ATOM     42 O    MOL A   0       0.461   6.181   7.750 -0.51                O 
+ATOM     43 O    MOL A   0       8.486   7.629   6.478 -0.49                O 
+ATOM     44 O    MOL A   0       0.141   2.862   0.733 -0.60                O 
+ATOM     45 O    MOL A   0       7.726   4.062   9.078 -0.47                O 
+ATOM     46 O    MOL A   0       3.766   3.981   2.885 -0.46                O 
+ATOM     47 O    MOL A   0       3.439   6.211   2.738 -0.49                O 
+ATOM     48 O    MOL A   0       3.067   1.832   0.724 -0.44                O 
+ATOM     49 O    MOL A   0       4.818   5.097   9.614 -0.45                O 

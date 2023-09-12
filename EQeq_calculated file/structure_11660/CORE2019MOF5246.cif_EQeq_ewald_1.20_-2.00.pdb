@@ -1,0 +1,54 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1    15.18    25.73     8.46  90.00  132.72  90.00 P1
+ATOM      1 Cd   MOL A   0       1.955   3.896   3.485  0.28                Cd
+ATOM      2 C    MOL A   0       0.921   1.590   1.343 -0.07                C 
+ATOM      3 C    MOL A   0       1.244   2.347   2.087 -0.08                C 
+ATOM      4 C    MOL A   0       4.151   4.099   3.183 -0.07                C 
+ATOM      5 C    MOL A   0       1.132   5.913   3.179 -0.07                C 
+ATOM      6 C    MOL A   0       1.854   3.569   5.654 -0.05                C 
+ATOM      7 Cd   MOL A   0       9.543  16.762   3.485  0.28                Cd
+ATOM      8 C    MOL A   0       8.509  14.456   1.343 -0.07                C 
+ATOM      9 C    MOL A   0       8.832  15.213   2.087 -0.08                C 
+ATOM     10 C    MOL A   0      11.739  16.965   3.183 -0.07                C 
+ATOM     11 C    MOL A   0       8.720  18.779   3.179 -0.07                C 
+ATOM     12 C    MOL A   0       9.442  16.435   5.654 -0.04                C 
+ATOM     13 Cd   MOL A   0       7.479   3.896   2.733  0.29                Cd
+ATOM     14 C    MOL A   0       8.513   1.590   4.875 -0.05                C 
+ATOM     15 C    MOL A   0       8.190   2.347   4.131 -0.08                C 
+ATOM     16 C    MOL A   0       5.283   4.099   3.035 -0.07                C 
+ATOM     17 C    MOL A   0       8.302   5.913   3.039 -0.07                C 
+ATOM     18 C    MOL A   0       7.580   3.569   0.565 -0.10                C 
+ATOM     19 Cd   MOL A   0      -0.109  16.762   2.733  0.29                Cd
+ATOM     20 C    MOL A   0       0.925  14.456   4.875 -0.05                C 
+ATOM     21 C    MOL A   0       0.602  15.213   4.131 -0.08                C 
+ATOM     22 C    MOL A   0      -2.305  16.965   3.035 -0.07                C 
+ATOM     23 C    MOL A   0       0.714  18.779   3.039 -0.07                C 
+ATOM     24 C    MOL A   0      -0.008  16.435   0.565 -0.10                C 
+ATOM     25 Cd   MOL A   0       7.479  21.836   2.733  0.29                Cd
+ATOM     26 C    MOL A   0       8.513  24.142   4.875 -0.05                C 
+ATOM     27 C    MOL A   0       8.190  23.385   4.131 -0.08                C 
+ATOM     28 C    MOL A   0       5.283  21.633   3.035 -0.07                C 
+ATOM     29 C    MOL A   0       8.302  19.819   3.039 -0.07                C 
+ATOM     30 C    MOL A   0       7.580  22.163   0.565 -0.10                C 
+ATOM     31 Cd   MOL A   0      -0.109   8.970   2.733  0.29                Cd
+ATOM     32 C    MOL A   0       0.925  11.276   4.875 -0.05                C 
+ATOM     33 C    MOL A   0       0.602  10.519   4.131 -0.08                C 
+ATOM     34 C    MOL A   0      -2.305   8.767   3.035 -0.07                C 
+ATOM     35 C    MOL A   0       0.714   6.953   3.039 -0.07                C 
+ATOM     36 C    MOL A   0      -0.008   9.297   0.565 -0.10                C 
+ATOM     37 Cd   MOL A   0       1.955  21.836   3.485  0.28                Cd
+ATOM     38 C    MOL A   0       0.921  24.142   1.343 -0.06                C 
+ATOM     39 C    MOL A   0       1.244  23.385   2.087 -0.08                C 
+ATOM     40 C    MOL A   0       4.151  21.633   3.183 -0.07                C 
+ATOM     41 C    MOL A   0       1.132  19.819   3.179 -0.07                C 
+ATOM     42 C    MOL A   0       1.854  22.163   5.654 -0.04                C 
+ATOM     43 Cd   MOL A   0       9.543   8.970   3.485  0.28                Cd
+ATOM     44 C    MOL A   0       8.509  11.276   1.343 -0.07                C 
+ATOM     45 C    MOL A   0       8.832  10.519   2.087 -0.08                C 
+ATOM     46 C    MOL A   0      11.739   8.767   3.183 -0.07                C 
+ATOM     47 C    MOL A   0       8.720   6.953   3.179 -0.07                C 
+ATOM     48 C    MOL A   0       9.442   9.297   5.654 -0.04                C 
+ATOM     49 Cd   MOL A   0       0.000   0.000   0.000  0.25                Cd
+ATOM     50 Cd   MOL A   0       7.588  12.866   0.000  0.26                Cd

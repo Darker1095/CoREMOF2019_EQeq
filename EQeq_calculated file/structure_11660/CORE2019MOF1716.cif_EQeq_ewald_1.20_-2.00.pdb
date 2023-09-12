@@ -1,0 +1,38 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.44     9.44    16.42  88.50  88.50  83.74 P1
+ATOM      1 Cu   MOL A   0       5.001   1.470   8.249  0.74                Cu
+ATOM      2 Cu   MOL A   0       9.101   5.146  16.372  0.80                Cu
+ATOM      3 Cu   MOL A   0       5.893   8.294   8.165  0.79                Cu
+ATOM      4 Cu   MOL A   0       1.793   4.618   0.042  0.73                Cu
+ATOM      5 Cu   MOL A   0       0.214   0.192   8.207  0.64                Cu
+ATOM      6 Cu   MOL A   0       0.000   0.000   0.000  0.63                Cu
+ATOM      7 Cu   MOL A   0       6.703   3.697  12.310  0.75                Cu
+ATOM      8 Cu   MOL A   0       4.191   6.068   4.103  0.75                Cu
+ATOM      9 Cu   MOL A   0       6.199   3.828   4.103  0.75                Cu
+ATOM     10 Cu   MOL A   0       4.695   5.937  12.310  0.75                Cu
+ATOM     11 C    MOL A   0       3.248   0.577   8.384 -0.45                C 
+ATOM     12 C    MOL A   0       5.967   2.908  10.856 -0.40                C 
+ATOM     13 C    MOL A   0       5.538   3.005   5.579 -0.40                C 
+ATOM     14 C    MOL A   0      10.180   6.790  16.237 -0.31                C 
+ATOM     15 C    MOL A   0       7.567   4.342  13.765 -0.37                C 
+ATOM     16 C    MOL A   0       7.089   4.395   2.628 -0.37                C 
+ATOM     17 C    MOL A   0       7.646   9.187   8.030 -0.32                C 
+ATOM     18 C    MOL A   0       4.926   6.857   5.558 -0.38                C 
+ATOM     19 C    MOL A   0       5.356   6.760  10.835 -0.37                C 
+ATOM     20 C    MOL A   0       0.713   2.974   0.177 -0.46                C 
+ATOM     21 C    MOL A   0       3.327   5.423   2.649 -0.41                C 
+ATOM     22 C    MOL A   0       3.805   5.369  13.786 -0.39                C 
+ATOM     23 N    MOL A   0       2.123   0.435   8.427 -0.28                N 
+ATOM     24 N    MOL A   0       5.611   2.382   9.904 -0.23                N 
+ATOM     25 N    MOL A   0       5.290   2.449   6.538 -0.23                N 
+ATOM     26 N    MOL A   0      10.445   7.894  16.194 -0.19                N 
+ATOM     27 N    MOL A   0       8.129   4.639  14.717 -0.20                N 
+ATOM     28 N    MOL A   0       7.668   4.581   1.669 -0.21                N 
+ATOM     29 N    MOL A   0       8.771   9.330   7.987 -0.20                N 
+ATOM     30 N    MOL A   0       5.283   7.383   6.510 -0.21                N 
+ATOM     31 N    MOL A   0       5.604   7.315   9.876 -0.20                N 
+ATOM     32 N    MOL A   0       0.449   1.871   0.220 -0.28                N 
+ATOM     33 N    MOL A   0       2.765   5.126   1.697 -0.23                N 
+ATOM     34 N    MOL A   0       3.226   5.183  14.745 -0.22                N 

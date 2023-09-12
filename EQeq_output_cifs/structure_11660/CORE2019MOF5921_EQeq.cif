@@ -1,0 +1,61 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.362
+_cell_length_b	9.362
+_cell_length_c	7.004
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	120
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Al	Al	0.162	0.52099	0.05633	7.282
+Mof_O 	O 	0.3015	0.73	0.9602	-2.887
+Mof_H 	H 	0.3457	0.8122	0.0621	0.438
+Mof_O 	O 	0.2785	0.4272	0.9592	-1.687
+Mof_O 	O 	0.5328	0.5653	0.1694	-1.872
+Mof_Al	Al	0.47901	0.64101	0.38966	7.648
+Mof_O 	O 	0.27	0.5715	0.29353	-3.085
+Mof_H 	H 	0.1878	0.5335	0.39543	0.643
+Mof_O 	O 	0.5728	0.8513	0.29253	-2.041
+Mof_O 	O 	0.4347	0.9675	0.50273	-1.974
+Mof_Al	Al	0.35899	0.838	0.723	7.089
+Mof_O 	O 	0.4285	0.6985	0.62687	-3.05
+Mof_H 	H 	0.4665	0.6543	0.72877	0.575
+Mof_O 	O 	0.1487	0.7215	0.62587	-1.776
+Mof_O 	O 	0.0325	0.4672	0.83607	-1.701
+Mof_Al	Al	0.52099	0.162	0.94367	8.034
+Mof_O 	O 	0.73	0.3015	0.0398	-3.187
+Mof_H 	H 	0.8122	0.3457	0.9379	0.568
+Mof_O 	O 	0.4272	0.2785	0.0408	-1.898
+Mof_O 	O 	0.5653	0.5328	0.8306	-1.839
+Mof_Al	Al	0.64101	0.47901	0.61034	7.698
+Mof_O 	O 	0.5715	0.27	0.70647	-3.215
+Mof_H 	H 	0.5335	0.1878	0.60457	0.659
+Mof_O 	O 	0.8513	0.5728	0.70747	-2.038
+Mof_O 	O 	0.9675	0.4347	0.49727	-2.001
+Mof_Al	Al	0.838	0.35899	0.277	7.179
+Mof_O 	O 	0.6985	0.4285	0.37313	-3.077
+Mof_H 	H 	0.6543	0.4665	0.27123	0.57
+Mof_O 	O 	0.7215	0.1487	0.37413	-1.811
+Mof_O 	O 	0.4672	0.0325	0.16393	-1.866
+Mof_P 	P 	0.44934	0.44934	-0	1.596
+Mof_P 	P 	0.55066	-1.18707e-32	0.33333	1.943
+Mof_P 	P 	-7.61915e-18	0.55066	0.66667	1.933
+Mof_F 	F 	-1.52702e-17	0.3178	0.16667	-2.069
+Mof_F 	F 	-1.52702e-17	0.5686	0.16667	-2.04
+Mof_F 	F 	0.6822	0.6822	0.5	-2.347
+Mof_F 	F 	0.4314	0.4314	0.5	-2.178
+Mof_F 	F 	0.3178	-1.18707e-32	0.83333	-2.122
+Mof_F 	F 	0.5686	-1.18707e-32	0.83333	-2.094
+_end

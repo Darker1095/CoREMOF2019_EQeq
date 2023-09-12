@@ -1,0 +1,56 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     8.43    13.19     9.55  90.00  94.39  90.00 P1
+ATOM      1 Tb   MOL A   0       4.184   3.562   4.661  1.59                Tb
+ATOM      2 C    MOL A   0       3.971   5.126   7.069  0.28                C 
+ATOM      3 C    MOL A   0       3.754   5.945   8.310 -0.04                C 
+ATOM      4 C    MOL A   0       4.486   5.601   9.469 -0.05                C 
+ATOM      5 C    MOL A   0       2.772   6.947   8.350 -0.09                C 
+ATOM      6 C    MOL A   0       5.627   4.634   9.378  0.29                C 
+ATOM      7 C    MOL A   0       1.949   7.282   7.098  0.39                C 
+ATOM      8 O    MOL A   0       4.128   5.699   5.932 -0.38                O 
+ATOM      9 O    MOL A   0       3.954   3.860   7.146 -0.40                O 
+ATOM     10 O    MOL A   0       6.545   3.768   0.775 -0.40                O 
+ATOM     11 O    MOL A   0       6.427   4.714   8.406 -0.41                O 
+ATOM     12 O    MOL A   0       2.424   8.089   6.257 -0.47                O 
+ATOM     13 O    MOL A   0       0.799   6.765   7.032 -0.30                O 
+ATOM     14 Tb   MOL A   0       8.099  10.156   0.101  1.56                Tb
+ATOM     15 C    MOL A   0       7.582  11.719   7.215  0.28                C 
+ATOM     16 C    MOL A   0       7.799  12.538   5.973 -0.04                C 
+ATOM     17 C    MOL A   0       7.067  12.194   4.815 -0.05                C 
+ATOM     18 C    MOL A   0       0.349   0.353   5.933 -0.09                C 
+ATOM     19 C    MOL A   0       5.926  11.227   4.906  0.29                C 
+ATOM     20 C    MOL A   0       1.172   0.688   7.186  0.38                C 
+ATOM     21 O    MOL A   0       7.425  12.293   8.352 -0.37                O 
+ATOM     22 O    MOL A   0       7.599  10.453   7.138 -0.39                O 
+ATOM     23 O    MOL A   0       5.738  10.361   3.986 -0.40                O 
+ATOM     24 O    MOL A   0       5.126  11.308   5.878 -0.41                O 
+ATOM     25 O    MOL A   0       0.697   1.495   8.027 -0.47                O 
+ATOM     26 O    MOL A   0       2.322   0.171   7.251 -0.30                O 
+ATOM     27 Tb   MOL A   0       3.518   9.625   4.862  1.59                Tb
+ATOM     28 C    MOL A   0       3.731   8.061   2.454  0.28                C 
+ATOM     29 C    MOL A   0       3.948   7.242   1.212 -0.04                C 
+ATOM     30 C    MOL A   0       3.216   7.587   0.053 -0.05                C 
+ATOM     31 C    MOL A   0       4.930   6.240   1.172 -0.09                C 
+ATOM     32 C    MOL A   0       2.075   8.553   0.145  0.30                C 
+ATOM     33 C    MOL A   0       5.753   5.905   2.424  0.39                C 
+ATOM     34 O    MOL A   0       3.574   7.488   3.591 -0.38                O 
+ATOM     35 O    MOL A   0       3.748   9.327   2.377 -0.40                O 
+ATOM     36 O    MOL A   0       1.157   9.420   8.747 -0.40                O 
+ATOM     37 O    MOL A   0       1.275   8.473   1.117 -0.41                O 
+ATOM     38 O    MOL A   0       5.278   5.098   3.265 -0.47                O 
+ATOM     39 O    MOL A   0       6.903   6.422   2.490 -0.30                O 
+ATOM     40 Tb   MOL A   0      -0.398   3.032   9.422  1.56                Tb
+ATOM     41 C    MOL A   0       0.120   1.468   2.307  0.28                C 
+ATOM     42 C    MOL A   0      -0.097   0.649   3.549 -0.04                C 
+ATOM     43 C    MOL A   0       0.635   0.993   4.708 -0.05                C 
+ATOM     44 C    MOL A   0       7.353  12.834   3.589 -0.09                C 
+ATOM     45 C    MOL A   0       1.776   1.960   4.617  0.29                C 
+ATOM     46 C    MOL A   0       6.530  12.499   2.337  0.38                C 
+ATOM     47 O    MOL A   0       0.277   0.894   1.170 -0.37                O 
+ATOM     48 O    MOL A   0       0.103   2.734   2.384 -0.39                O 
+ATOM     49 O    MOL A   0       1.963   2.826   5.536 -0.40                O 
+ATOM     50 O    MOL A   0       2.576   1.879   3.644 -0.41                O 
+ATOM     51 O    MOL A   0       7.005  11.692   1.496 -0.47                O 
+ATOM     52 O    MOL A   0       5.380  13.016   2.271 -0.30                O 

@@ -1,0 +1,60 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	5.305
+_cell_length_b	9.296
+_cell_length_c	15.474
+_cell_angle_alpha	86.462
+_cell_angle_beta	86.42
+_cell_angle_gamma	78.906
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Zn	Zn	0.7756	0.619	0.26355	1.213
+Mof_Zn	Zn	0.2779	0.5555	0.39633	1.221
+Mof_Zn	Zn	0.2057	0.5755	0.09975	1.223
+Mof_Zn	Zn	0.0154	0.1509	0.25745	1.196
+Mof_P 	P 	0.7621	0.3956	0.1185	0.574
+Mof_P 	P 	0.8273	0.3632	0.4073	0.538
+Mof_P 	P 	0.2121	0.796	0.2405	0.546
+Mof_O 	O 	0.1	0.6737	0.2982	-0.649
+Mof_O 	O 	0.89	0.5148	0.1575	-0.656
+Mof_O 	O 	0.649	0.4964	0.3606	-0.647
+Mof_O 	O 	0.492	0.7805	0.2593	-0.518
+Mof_O 	O 	0.101	0.3913	0.402	-0.538
+Mof_O 	O 	0.282	0.6565	0.5001	-0.49
+Mof_O 	O 	0.476	0.4285	0.1504	-0.526
+Mof_O 	O 	0.177	0.7686	0.1451	-0.497
+Mof_O 	O 	0.206	0.5916	0.9787	-0.526
+Mof_O 	O 	0.815	0.2234	0.3607	-0.47
+Mof_O 	O 	0.06	0.9438	0.2651	-0.49
+Mof_O 	O 	0.884	0.2445	0.1514	-0.503
+Mof_Zn	Zn	0.2244	0.381	0.73645	1.212
+Mof_Zn	Zn	0.7221	0.4445	0.60367	1.22
+Mof_Zn	Zn	0.7943	0.4245	0.90025	1.223
+Mof_Zn	Zn	0.9846	0.8491	0.74255	1.196
+Mof_P 	P 	0.2379	0.6044	0.8815	0.574
+Mof_P 	P 	0.1727	0.6368	0.5927	0.538
+Mof_P 	P 	0.7879	0.204	0.7595	0.546
+Mof_O 	O 	0.9	0.3263	0.7018	-0.649
+Mof_O 	O 	0.11	0.4852	0.8425	-0.656
+Mof_O 	O 	0.351	0.5036	0.6394	-0.647
+Mof_O 	O 	0.508	0.2195	0.7407	-0.518
+Mof_O 	O 	0.899	0.6087	0.598	-0.538
+Mof_O 	O 	0.718	0.3435	0.4999	-0.49
+Mof_O 	O 	0.524	0.5715	0.8496	-0.526
+Mof_O 	O 	0.823	0.2314	0.8549	-0.497
+Mof_O 	O 	0.794	0.4084	0.0213	-0.526
+Mof_O 	O 	0.185	0.7766	0.6393	-0.47
+Mof_O 	O 	0.94	0.0562	0.7349	-0.49
+Mof_O 	O 	0.116	0.7555	0.8486	-0.503
+_end

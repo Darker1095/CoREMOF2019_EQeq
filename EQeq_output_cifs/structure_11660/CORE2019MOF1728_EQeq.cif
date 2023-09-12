@@ -1,0 +1,42 @@
+data_DONNAW01
+_audit_creation_date              2015-05-15
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'PNMA'
+_symmetry_Int_Tables_number       62
+_symmetry_cell_setting            orthorhombic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+  -x+1/2,-y,z+1/2
+  -x,y+1/2,-z
+  x+1/2,-y+1/2,-z+1/2
+  -x,-y,-z
+  x+1/2,y,-z+1/2
+  x,-y+1/2,z
+  -x+1/2,y+1/2,z+1/2
+_cell_length_a                    17.4370
+_cell_length_b                    6.7475
+_cell_length_c                    12.1541
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+O1	O	0.92632 	0.08300 	0.88584 	-0.505
+O2	O	0.58949 	0.08260 	0.58860 	-0.224
+C3	C	0.79127 	0.42880 	0.76510 	-0.033
+H4	H	0.81190 	0.56610 	0.79890 	0.012
+C5	C	0.72605 	0.42740 	0.69950 	-0.044
+H6	H	0.70210 	0.56470 	0.67040 	0.035
+H7	H	0.50640 	0.75000 	0.65568 	0.016
+Ga8	Ga	1.00000 	0.00000 	1.00000 	1.158
+O9	O	0.99360 	0.25000 	1.07340 	-0.519
+C10	C	0.82814 	0.25000 	0.79140 	-0.071
+C11	C	0.89907 	0.25000 	0.86000 	0.121
+C12	C	0.69218 	0.25000 	0.67120 	-0.038
+C13	C	0.61762 	0.25000 	0.61080 	0.092

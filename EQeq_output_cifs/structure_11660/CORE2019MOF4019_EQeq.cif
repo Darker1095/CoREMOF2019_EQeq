@@ -1,0 +1,62 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	8.4221
+_cell_length_b	8.4221
+_cell_length_c	12.049
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Cu	Cu	0.09745	0.69409	0.89107	0.922
+Mof_Cu	Cu	0.90255	0.30591	0.39107	0.923
+Mof_Cu	Cu	0.30591	0.09745	0.14107	0.925
+Mof_Cu	Cu	0.69409	0.90255	0.64107	0.924
+Mof_H 	H 	0.5614	0.823	0.89	0.232
+Mof_H 	H 	0.4715	0.6692	0.9264	0.237
+Mof_H 	H 	0.4386	0.177	0.39	0.239
+Mof_H 	H 	0.5285	0.3308	0.4264	0.243
+Mof_H 	H 	0.177	0.5614	0.14	0.246
+Mof_H 	H 	0.3308	0.4715	0.1764	0.248
+Mof_H 	H 	0.823	0.4386	0.64	0.239
+Mof_H 	H 	0.6692	0.5285	0.6764	0.243
+Mof_C 	C 	0.3881	0.7589	0.7796	0.516
+Mof_C 	C 	0.4571	0.7749	0.896	-0.695
+Mof_C 	C 	0.3604	0.8712	0.9778	0.504
+Mof_C 	C 	0.6119	0.2411	0.2796	0.521
+Mof_C 	C 	0.5429	0.2251	0.396	-0.709
+Mof_C 	C 	0.6396	0.1288	0.4778	0.528
+Mof_C 	C 	0.2411	0.3881	0.0296	0.539
+Mof_C 	C 	0.2251	0.4571	0.146	-0.72
+Mof_C 	C 	0.1288	0.3604	0.2278	0.532
+Mof_C 	C 	0.7589	0.6119	0.5296	0.52
+Mof_C 	C 	0.7749	0.5429	0.646	-0.709
+Mof_C 	C 	0.8712	0.6396	0.7278	0.527
+Mof_O 	O 	0.2406	0.7324	0.76956	-0.414
+Mof_O 	O 	0.2107	0.8518	0.98214	-0.483
+Mof_O 	O 	0.4791	0.7671	0.69825	-0.402
+Mof_O 	O 	0.4329	0.9645	0.04024	-0.425
+Mof_O 	O 	0.7594	0.2676	0.26956	-0.414
+Mof_O 	O 	0.7893	0.1482	0.48214	-0.483
+Mof_O 	O 	0.5209	0.2329	0.19825	-0.403
+Mof_O 	O 	0.5671	0.0355	0.54024	-0.444
+Mof_O 	O 	0.2676	0.2406	0.01956	-0.416
+Mof_O 	O 	0.1482	0.2107	0.23214	-0.483
+Mof_O 	O 	0.2329	0.4791	0.94825	-0.417
+Mof_O 	O 	0.0355	0.4329	0.29024	-0.444
+Mof_O 	O 	0.7324	0.7594	0.51956	-0.415
+Mof_O 	O 	0.8518	0.7893	0.73214	-0.484
+Mof_O 	O 	0.7671	0.5209	0.44825	-0.403
+Mof_O 	O 	0.9645	0.5671	0.79024	-0.445
+_end

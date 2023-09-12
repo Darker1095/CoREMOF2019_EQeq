@@ -1,0 +1,53 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     6.61    12.43     8.81  90.00  107.72  90.00 P1
+ATOM      1 F    MOL A   0      -0.011   4.731   4.551 -0.58                F 
+ATOM      2 N    MOL A   0       2.968   1.554   7.206 -0.10                N 
+ATOM      3 N    MOL A   0       1.615   1.507   7.132 -0.05                N 
+ATOM      4 N    MOL A   0       1.169   2.396   6.297 -0.03                N 
+ATOM      5 N    MOL A   0       2.226   3.072   5.782 -0.16                N 
+ATOM      6 C    MOL A   0       3.308   2.549   6.370  0.28                C 
+ATOM      7 N    MOL A   0       4.585   2.934   6.129 -0.31                N 
+ATOM      8 H    MOL A   0       4.745   3.559   5.561  0.25                H 
+ATOM      9 H    MOL A   0      -1.378   2.554   6.545  0.17                H 
+ATOM     10 F    MOL A   0       3.942   4.731   3.838 -0.55                F 
+ATOM     11 N    MOL A   0       0.963   1.554   1.184 -0.18                N 
+ATOM     12 N    MOL A   0       2.316   1.507   1.258 -0.10                N 
+ATOM     13 N    MOL A   0       2.762   2.396   2.092 -0.04                N 
+ATOM     14 N    MOL A   0       1.704   3.072   2.607 -0.17                N 
+ATOM     15 C    MOL A   0       0.623   2.549   2.019  0.23                C 
+ATOM     16 N    MOL A   0      -0.654   2.934   2.260 -0.44                N 
+ATOM     17 H    MOL A   0      -0.815   3.559   2.828  0.21                H 
+ATOM     18 H    MOL A   0       5.308   2.554   1.844  0.27                H 
+ATOM     19 F    MOL A   0       3.942   7.701   3.838 -0.55                F 
+ATOM     20 N    MOL A   0       0.963  10.878   1.184 -0.17                N 
+ATOM     21 N    MOL A   0       2.316  10.926   1.258 -0.09                N 
+ATOM     22 N    MOL A   0       2.762  10.037   2.092 -0.04                N 
+ATOM     23 N    MOL A   0       1.704   9.360   2.607 -0.17                N 
+ATOM     24 C    MOL A   0       0.623   9.884   2.019  0.24                C 
+ATOM     25 N    MOL A   0      -0.654   9.498   2.260 -0.44                N 
+ATOM     26 H    MOL A   0      -0.815   8.873   2.828  0.22                H 
+ATOM     27 H    MOL A   0       5.308   9.879   1.844  0.27                H 
+ATOM     28 F    MOL A   0      -0.011   7.701   4.551 -0.58                F 
+ATOM     29 N    MOL A   0       2.968  10.878   7.206 -0.09                N 
+ATOM     30 N    MOL A   0       1.615  10.926   7.132 -0.04                N 
+ATOM     31 N    MOL A   0       1.169  10.037   6.297 -0.03                N 
+ATOM     32 N    MOL A   0       2.226   9.360   5.782 -0.16                N 
+ATOM     33 C    MOL A   0       3.308   9.884   6.370  0.29                C 
+ATOM     34 N    MOL A   0       4.585   9.498   6.129 -0.31                N 
+ATOM     35 H    MOL A   0       4.745   8.873   5.561  0.25                H 
+ATOM     36 H    MOL A   0      -1.378   9.879   6.545  0.18                H 
+ATOM     37 Fe   MOL A   0       3.306   0.000   0.000  0.70                Fe
+ATOM     38 Fe   MOL A   0       0.000   0.000   0.000  0.59                Fe
+ATOM     39 Fe   MOL A   0       1.965   4.557   4.195  0.97                Fe
+ATOM     40 Fe   MOL A   0       1.965   7.876   4.195  0.97                Fe
+ATOM     41 Fe   MOL A   0      -1.341   6.216   4.195  1.08                Fe
+ATOM     42 F    MOL A   0       4.945   0.000   1.164 -0.54                F 
+ATOM     43 F    MOL A   0      -1.014   0.000   7.225 -0.50                F 
+ATOM     44 O    MOL A   0       2.222   6.216   5.587 -0.34                O 
+ATOM     45 O    MOL A   0       5.898   6.216   2.162 -0.21                O 
+ATOM     46 C    MOL A   0       0.550   6.216   1.921  0.12                C 
+ATOM     47 O    MOL A   0       1.709   6.216   2.802 -0.33                O 
+ATOM     48 O    MOL A   0      -1.967   6.216   6.228 -0.36                O 
+ATOM     49 C    MOL A   0       3.381   6.216   6.468  0.36                C 

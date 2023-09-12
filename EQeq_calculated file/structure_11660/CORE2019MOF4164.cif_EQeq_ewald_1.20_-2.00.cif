@@ -1,0 +1,58 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.2545
+_cell_length_b	9.4632
+_cell_length_c	9.4632
+_cell_angle_alpha	76.167
+_cell_angle_beta	60.7271
+_cell_angle_gamma	60.727
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Bi	Bi	0.875	0.25	0.75	1.087
+Mof_Bi	Bi	0.125	0.75	0.25	1.087
+Mof_C 	C 	0.1002	0.976	0.476	0.238
+Mof_C 	C 	0.5522	0.524	0.024	0.242
+Mof_C 	C 	0.0762	0.024	0.976	0.246
+Mof_C 	C 	0.0762	0.476	0.524	0.243
+Mof_C 	C 	0.8998	0.024	0.524	0.238
+Mof_C 	C 	0.4478	0.476	0.976	0.242
+Mof_C 	C 	0.9238	0.524	0.476	0.243
+Mof_C 	C 	0.9238	0.976	0.024	0.246
+Mof_O 	O 	0.1305	0.0466	0.5466	-0.3
+Mof_O 	O 	0.2191	0.8702	0.3702	-0.31
+Mof_O 	O 	0.7237	0.4534	0.9534	-0.305
+Mof_O 	O 	0.4595	0.6298	0.1298	-0.311
+Mof_O 	O 	0.1771	0.9534	0.0466	-0.31
+Mof_O 	O 	0.0893	0.1298	0.8702	-0.311
+Mof_O 	O 	0.1771	0.5466	0.4534	-0.305
+Mof_O 	O 	0.0893	0.3702	0.6298	-0.31
+Mof_O 	O 	0.8695	0.9534	0.4534	-0.3
+Mof_O 	O 	0.7809	0.1298	0.6298	-0.31
+Mof_O 	O 	0.2763	0.5466	0.0466	-0.305
+Mof_O 	O 	0.5405	0.3702	0.8702	-0.311
+Mof_O 	O 	0.8229	0.4534	0.5466	-0.305
+Mof_O 	O 	0.9107	0.6298	0.3702	-0.31
+Mof_O 	O 	0.8229	0.0466	0.9534	-0.31
+Mof_O 	O 	0.9107	0.8702	0.1298	-0.311
+Mof_H 	H 	0.5134	0.8096	0.3096	0.294
+Mof_H 	H 	0.6326	0.6904	0.1904	0.294
+Mof_H 	H 	0.677	0.6904	0.3096	0.294
+Mof_H 	H 	0.677	0.8096	0.1904	0.294
+Mof_N 	N 	0.625	0.75	0.25	-0.77
+Mof_H 	H 	0.323	0.1904	0.8096	0.294
+Mof_H 	H 	0.323	0.3096	0.6904	0.294
+Mof_H 	H 	0.4866	0.1904	0.6904	0.294
+Mof_H 	H 	0.3674	0.3096	0.8096	0.294
+Mof_N 	N 	0.375	0.25	0.75	-0.77
+_end

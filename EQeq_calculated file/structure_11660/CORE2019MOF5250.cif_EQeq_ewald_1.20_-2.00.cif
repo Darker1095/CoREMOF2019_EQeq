@@ -1,0 +1,50 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.0193
+_cell_length_b	7.3421
+_cell_length_c	9.3901
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_F 	F 	0.6489	0.5496	0.6346	-1.107
+Mof_F 	F 	0.1489	0.0496	0.1346	-0.862
+Mof_F 	F 	0.3511	0.9504	0.6346	-0.737
+Mof_F 	F 	0.8511	0.4504	0.1346	-0.751
+Mof_F 	F 	0.3511	0.0496	0.3654	-1.116
+Mof_F 	F 	0.8511	0.5496	0.8654	-0.558
+Mof_F 	F 	0.6489	0.4504	0.3654	-1.133
+Mof_F 	F 	0.1489	0.9504	0.8654	-0.302
+Mof_F 	F 	0.3511	0.4504	0.3654	-1.176
+Mof_F 	F 	0.8511	0.9504	0.8654	-0.163
+Mof_F 	F 	0.6489	0.0496	0.3654	-1.072
+Mof_F 	F 	0.1489	0.5496	0.8654	-0.702
+Mof_F 	F 	0.6489	0.9504	0.6346	-0.697
+Mof_F 	F 	0.1489	0.4504	0.1346	-0.917
+Mof_F 	F 	0.3511	0.5496	0.6346	-1.148
+Mof_F 	F 	0.8511	0.0496	0.1346	-0.694
+Mof_Co	Co	0.75	0.75	0.75	1.349
+Mof_Co	Co	0.25	0.75	0.75	1.302
+Mof_Co	Co	0.25	0.25	0.25	1.186
+Mof_Co	Co	0.75	0.25	0.25	1.237
+Mof_Ga	Ga	0.5	0.5	0.5	5.056
+Mof_Ga	Ga	-0	0	-0	1.036
+Mof_Ga	Ga	0.5	0	0.5	3.401
+Mof_Ga	Ga	-5.07454e-33	0.5	-0	2.634
+Mof_F 	F 	0.5	0.75	0.4255	-1.171
+Mof_F 	F 	-6.53636e-33	0.25	0.9255	-0.721
+Mof_F 	F 	0.5	0.25	0.5745	-1.37
+Mof_F 	F 	-3.51509e-33	0.75	0.0745	-0.804
+_end

@@ -1,0 +1,24 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     8.22     8.22    13.17  90.00  90.00  120.00 P1
+ATOM      1 Zn   MOL A   0       4.108   2.372   5.492  1.19                Zn
+ATOM      2 Zn   MOL A   0       0.000   4.744  12.077  1.19                Zn
+ATOM      3 Zn   MOL A   0       4.108   2.372   1.094  1.19                Zn
+ATOM      4 Zn   MOL A   0       0.000   4.744   7.679  1.19                Zn
+ATOM      5 C    MOL A   0       2.547   3.273   0.198 -0.27                C 
+ATOM      6 C    MOL A   0       5.670   3.273   6.388 -0.27                C 
+ATOM      7 C    MOL A   0       1.561   3.843   6.783 -0.27                C 
+ATOM      8 C    MOL A   0       0.000   6.547  12.973 -0.27                C 
+ATOM      9 C    MOL A   0       4.108   2.372   2.700 -0.39                C 
+ATOM     10 C    MOL A   0       4.108   0.569   0.198 -0.27                C 
+ATOM     11 C    MOL A   0      -1.561   3.843  12.973 -0.27                C 
+ATOM     12 C    MOL A   0       1.561   3.843  12.973 -0.27                C 
+ATOM     13 C    MOL A   0       4.108   0.569   6.388 -0.27                C 
+ATOM     14 C    MOL A   0       4.108   2.372   3.885 -0.39                C 
+ATOM     15 C    MOL A   0       5.670   3.273   0.198 -0.27                C 
+ATOM     16 C    MOL A   0       0.000   4.744   9.285 -0.39                C 
+ATOM     17 C    MOL A   0       0.000   4.744  10.471 -0.39                C 
+ATOM     18 C    MOL A   0      -1.561   3.843   6.783 -0.27                C 
+ATOM     19 C    MOL A   0       0.000   6.547   6.783 -0.27                C 
+ATOM     20 C    MOL A   0       2.547   3.273   6.388 -0.27                C 

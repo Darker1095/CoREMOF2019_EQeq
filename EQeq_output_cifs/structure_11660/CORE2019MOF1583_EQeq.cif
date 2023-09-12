@@ -1,0 +1,70 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	10.5407
+_cell_length_b	7.8951
+_cell_length_c	10.3271
+_cell_angle_alpha	90
+_cell_angle_beta	109.819
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Al	Al	0.3194	0.4298	0.7093	4.214
+Mof_P 	P 	0.2463	0.3085	0.96519	0.874
+Mof_O 	O 	0.1062	0.3904	0.9128	-0.799
+Mof_O 	O 	0.3026	0.2847	0.846	-1.023
+Mof_O 	O 	0.3467	0.4169	0.0809	-1.234
+Mof_O 	O 	0.2636	0.749	0.0688	-1.2
+Mof_O 	O 	0.0524	0.7258	0.9508	-0.936
+Mof_O 	O 	0.1376	0.4968	0.1667	-1.415
+Mof_C 	C 	0.2357	0.1026	0.0378	-0.28
+Mof_C 	C 	0.159	0.9827	0.9277	-0.245
+Mof_C 	C 	0.1581	0.8087	0.9868	0.936
+Mof_Al	Al	0.6806	0.4298	0.7907	4.1
+Mof_P 	P 	0.7537	0.3085	0.53481	0.721
+Mof_O 	O 	0.8938	0.3904	0.5872	-0.595
+Mof_O 	O 	0.6974	0.2847	0.654	-0.974
+Mof_O 	O 	0.6533	0.4169	0.4191	-1.129
+Mof_O 	O 	0.7364	0.749	0.4312	-1.027
+Mof_O 	O 	0.9476	0.7258	0.5492	-0.584
+Mof_O 	O 	0.8624	0.4968	0.3333	-1.201
+Mof_C 	C 	0.7643	0.1026	0.4622	-0.022
+Mof_C 	C 	0.841	0.9827	0.5723	-0.043
+Mof_C 	C 	0.8419	0.8087	0.5132	0.746
+Mof_Al	Al	0.6806	0.5702	0.2907	4.108
+Mof_P 	P 	0.7537	0.6915	0.03481	0.537
+Mof_O 	O 	0.8938	0.6096	0.0872	-0.486
+Mof_O 	O 	0.6974	0.7153	0.154	-0.988
+Mof_O 	O 	0.6533	0.5831	0.9191	-1.027
+Mof_O 	O 	0.7364	0.251	0.9312	-0.866
+Mof_O 	O 	0.9476	0.2742	0.0492	-0.459
+Mof_O 	O 	0.8624	0.5032	0.8333	-1.033
+Mof_C 	C 	0.7643	0.8974	0.9622	0.095
+Mof_C 	C 	0.841	0.0173	0.0723	-0.062
+Mof_C 	C 	0.8419	0.1913	0.0132	0.542
+Mof_Al	Al	0.3194	0.5702	0.2093	4.177
+Mof_P 	P 	0.2463	0.6915	0.46519	0.725
+Mof_O 	O 	0.1062	0.6096	0.4128	-0.972
+Mof_O 	O 	0.3026	0.7153	0.346	-1.039
+Mof_O 	O 	0.3467	0.5831	0.5809	-1.15
+Mof_O 	O 	0.2636	0.251	0.5688	-1.086
+Mof_O 	O 	0.0524	0.2742	0.4508	-1.075
+Mof_O 	O 	0.1376	0.5032	0.6667	-1.519
+Mof_C 	C 	0.2357	0.8974	0.5378	-0.154
+Mof_C 	C 	0.159	0.0173	0.4277	-0.296
+Mof_C 	C 	0.1581	0.1913	0.4868	0.829
+Mof_Al	Al	-0	0.5	-0	2.33
+Mof_Al	Al	-3.5153e-17	0.5	0.5	3.079
+Mof_O 	O 	0.5	0.3526	0.75	-1.537
+Mof_O 	O 	0.5	0.6474	0.25	-1.557
+_end

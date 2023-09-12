@@ -1,0 +1,62 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.982
+_cell_length_b	10
+_cell_length_c	9.576
+_cell_angle_alpha	97.96
+_cell_angle_beta	114.87
+_cell_angle_gamma	107.67
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Ge	Ge	0.03306	0.11545	0.86359	1.08
+Mof_Zn	Zn	0.79116	0.34102	0.31218	1.239
+Mof_P 	P 	0.4002	0.2291	0.1746	0.57
+Mof_P 	P 	0.0284	0.6595	0.3362	0.566
+Mof_P 	P 	0.9699	0.1929	0.1539	0.557
+Mof_O 	O 	0.5573	0.2874	0.1695	-0.397
+Mof_O 	O 	0.3955	0.3338	0.3021	-0.378
+Mof_O 	O 	0.2638	0.1943	0.0052	-0.388
+Mof_O 	O 	0.3841	0.0786	0.2199	-0.2
+Mof_O 	O 	0.8875	0.5486	0.3392	-0.47
+Mof_O 	O 	0.9972	0.7954	0.3046	-0.396
+Mof_O 	O 	0.1864	0.7022	0.4937	-0.443
+Mof_O 	O 	0.0473	0.5915	0.1887	-0.325
+Mof_O 	O 	0.8407	0.2212	0.1787	-0.429
+Mof_O 	O 	0.1175	0.3481	0.2204	-0.376
+Mof_O 	O 	0.0364	0.0933	0.2445	-0.384
+Mof_O 	O 	0.9061	0.1294	0.9717	-0.381
+Mof_H 	H 	0.0776	0.5027	0.1922	0.17
+Mof_H 	H 	0.2055	0.4406	0.2601	0.184
+Mof_H 	H 	0.3924	0.3995	0.3816	0.2
+Mof_Ge	Ge	0.96694	0.88455	0.13641	1.081
+Mof_Zn	Zn	0.20884	0.65898	0.68782	1.24
+Mof_P 	P 	0.5998	0.7709	0.8254	0.57
+Mof_P 	P 	0.9716	0.3405	0.6638	0.566
+Mof_P 	P 	0.0301	0.8071	0.8461	0.557
+Mof_O 	O 	0.4427	0.7126	0.8305	-0.397
+Mof_O 	O 	0.6045	0.6662	0.6979	-0.378
+Mof_O 	O 	0.7362	0.8057	0.9948	-0.388
+Mof_O 	O 	0.6159	0.9214	0.7801	-0.2
+Mof_O 	O 	0.1125	0.4514	0.6608	-0.47
+Mof_O 	O 	0.0028	0.2046	0.6954	-0.396
+Mof_O 	O 	0.8136	0.2978	0.5063	-0.443
+Mof_O 	O 	0.9527	0.4085	0.8113	-0.325
+Mof_O 	O 	0.1593	0.7788	0.8213	-0.429
+Mof_O 	O 	0.8825	0.6519	0.7796	-0.376
+Mof_O 	O 	0.9636	0.9067	0.7555	-0.384
+Mof_O 	O 	0.0939	0.8706	0.0283	-0.381
+Mof_H 	H 	0.9224	0.4973	0.8078	0.17
+Mof_H 	H 	0.7945	0.5594	0.7399	0.184
+Mof_H 	H 	0.6076	0.6005	0.6184	0.2
+_end

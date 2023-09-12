@@ -1,0 +1,24 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     7.11     6.91     6.78  90.00  90.00  90.00 P1
+ATOM      1 Ni   MOL A   0       3.557   3.455   0.000  1.05                Ni
+ATOM      2 Fe   MOL A   0       0.000   0.000   0.000  0.59                Fe
+ATOM      3 N    MOL A   0       1.386   1.364   0.000 -0.14                N 
+ATOM      4 C    MOL A   0       2.223   2.150   0.000 -0.24                C 
+ATOM      5 N    MOL A   0       5.728   5.547   0.000 -0.09                N 
+ATOM      6 C    MOL A   0       4.891   4.761   0.000 -0.22                C 
+ATOM      7 N    MOL A   0       5.728   1.364   0.000 -0.10                N 
+ATOM      8 C    MOL A   0       4.891   2.150   0.000 -0.23                C 
+ATOM      9 N    MOL A   0       1.386   5.547   0.000 -0.12                N 
+ATOM     10 C    MOL A   0       2.223   4.761   0.000 -0.23                C 
+ATOM     11 N    MOL A   0       0.000   0.000   1.986 -0.20                N 
+ATOM     12 N    MOL A   0       0.000   0.000   4.794 -0.17                N 
+ATOM     13 C    MOL A   0       0.000   1.134   2.693 -0.00                C 
+ATOM     14 H    MOL A   0       0.000   1.965   2.232  0.01                H 
+ATOM     15 C    MOL A   0       0.000   5.777   2.693  0.03                C 
+ATOM     16 H    MOL A   0       0.000   4.946   2.232  0.00                H 
+ATOM     17 C    MOL A   0       0.000   1.134   4.087 -0.00                C 
+ATOM     18 H    MOL A   0       0.000   1.965   4.548  0.03                H 
+ATOM     19 C    MOL A   0       0.000   5.777   4.087  0.03                C 
+ATOM     20 H    MOL A   0       0.000   4.946   4.548  0.02                H 

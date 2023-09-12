@@ -1,0 +1,24 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.37     9.37     6.95  90.00  90.00  90.00 P1
+ATOM      1 Ca   MOL A   0       2.342   2.342   6.302  1.21                Ca
+ATOM      2 N    MOL A   0       2.341   2.341   1.681 -0.19                N 
+ATOM      3 N    MOL A   0       2.341   2.341   2.808 -0.02                N 
+ATOM      4 N    MOL A   0       2.342   2.342   3.959 -0.19                N 
+ATOM      5 Ca   MOL A   0       7.024   7.024   0.645  1.22                Ca
+ATOM      6 N    MOL A   0       7.024   7.024   5.266 -0.20                N 
+ATOM      7 N    MOL A   0       7.024   7.024   4.139 -0.02                N 
+ATOM      8 N    MOL A   0       7.024   7.024   2.988 -0.20                N 
+ATOM      9 N    MOL A   0       0.675   0.675   6.328 -0.20                N 
+ATOM     10 N    MOL A   0       4.008   4.008   6.328 -0.20                N 
+ATOM     11 N    MOL A   0       4.008   0.675   6.328 -0.20                N 
+ATOM     12 N    MOL A   0       0.675   4.008   6.328 -0.20                N 
+ATOM     13 N    MOL A   0       8.691   5.358   0.619 -0.19                N 
+ATOM     14 N    MOL A   0       5.358   8.691   0.619 -0.19                N 
+ATOM     15 N    MOL A   0       5.358   5.358   0.619 -0.19                N 
+ATOM     16 N    MOL A   0       8.691   8.691   0.619 -0.20                N 
+ATOM     17 N    MOL A   0       0.000   0.000   0.000 -0.01                N 
+ATOM     18 N    MOL A   0       4.683   4.683   0.000 -0.02                N 
+ATOM     19 N    MOL A   0       4.683   0.000   0.000 -0.02                N 
+ATOM     20 N    MOL A   0       0.000   4.683   0.000 -0.02                N 

@@ -1,0 +1,16 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.05     9.05    14.45  90.00  90.00  120.00 P1
+ATOM      1 Si   MOL A   0       4.527   2.614   2.949  0.49                Si
+ATOM      2 Si   MOL A   0       4.528   2.614   8.713  0.50                Si
+ATOM      3 Si   MOL A   0       0.000   5.228   1.489  0.48                Si
+ATOM      4 Si   MOL A   0       0.000   5.228  10.172  0.50                Si
+ATOM      5 I    MOL A   0       4.527   2.614   5.832 -0.24                I 
+ATOM      6 I    MOL A   0       3.638   0.000   2.220 -0.26                I 
+ATOM      7 I    MOL A   0       1.819   3.151   9.443 -0.25                I 
+ATOM      8 I    MOL A   0       0.000   5.228  13.056 -0.22                I 
+ATOM      9 I    MOL A   0       2.709   4.691   2.220 -0.26                I 
+ATOM     10 I    MOL A   0       7.236   3.150   2.220 -0.25                I 
+ATOM     11 I    MOL A   0       0.890   7.842   9.443 -0.25                I 
+ATOM     12 I    MOL A   0      -2.708   4.691   9.443 -0.25                I 

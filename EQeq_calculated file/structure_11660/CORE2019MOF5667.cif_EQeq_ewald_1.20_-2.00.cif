@@ -1,0 +1,74 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	10.596
+_cell_length_b	10.295
+_cell_length_c	6.141
+_cell_angle_alpha	90
+_cell_angle_beta	114.67
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_C 	C 	0.318	0.2129	0.545	-0.063
+Mof_H 	H 	0.3931	0.2704	0.5594	0.016
+Mof_H 	H 	0.3377	0.1762	0.7017	-0.001
+Mof_N 	N 	0.3033	0.1088	0.373	-0.265
+Mof_H 	H 	0.2838	0.143	0.2275	0.061
+Mof_H 	H 	0.2334	0.0553	0.3605	0.055
+Mof_C 	C 	0.818	0.7129	0.545	-0.066
+Mof_H 	H 	0.8931	0.7704	0.5594	0.041
+Mof_H 	H 	0.8377	0.6762	0.7017	0.022
+Mof_N 	N 	0.8033	0.6088	0.373	-0.26
+Mof_H 	H 	0.7838	0.643	0.2275	0.083
+Mof_H 	H 	0.7334	0.5553	0.3605	0.084
+Mof_C 	C 	0.682	0.2129	0.955	0.026
+Mof_H 	H 	0.6069	0.2704	0.9406	-0.007
+Mof_H 	H 	0.6623	0.1762	0.7983	-0.027
+Mof_N 	N 	0.6967	0.1088	0.127	-0.289
+Mof_H 	H 	0.7162	0.143	0.2725	0.077
+Mof_H 	H 	0.7666	0.0553	0.1395	0.073
+Mof_C 	C 	0.182	0.7129	0.955	0.03
+Mof_H 	H 	0.1069	0.7704	0.9406	-0.017
+Mof_H 	H 	0.1623	0.6762	0.7983	-0.03
+Mof_N 	N 	0.1967	0.6088	0.127	-0.291
+Mof_H 	H 	0.2162	0.643	0.2725	0.08
+Mof_H 	H 	0.2666	0.5553	0.1395	0.082
+Mof_C 	C 	0.682	0.7871	0.455	-0.024
+Mof_H 	H 	0.6069	0.7296	0.4406	0.006
+Mof_H 	H 	0.6623	0.8238	0.2983	0.003
+Mof_N 	N 	0.6967	0.8912	0.627	-0.275
+Mof_H 	H 	0.7162	0.857	0.7725	0.102
+Mof_H 	H 	0.7666	0.9447	0.6395	0.116
+Mof_C 	C 	0.182	0.2871	0.455	-0.021
+Mof_H 	H 	0.1069	0.2296	0.4406	-0.02
+Mof_H 	H 	0.1623	0.3238	0.2983	-0.022
+Mof_N 	N 	0.1967	0.3912	0.627	-0.281
+Mof_H 	H 	0.2162	0.357	0.7725	0.08
+Mof_H 	H 	0.2666	0.4447	0.6395	0.087
+Mof_C 	C 	0.318	0.7871	0.045	-0.113
+Mof_H 	H 	0.3931	0.7296	0.0594	0.029
+Mof_H 	H 	0.3377	0.8238	0.2017	0.025
+Mof_N 	N 	0.3033	0.8912	0.873	-0.244
+Mof_H 	H 	0.2838	0.857	0.7275	0.085
+Mof_H 	H 	0.2334	0.9447	0.8605	0.098
+Mof_C 	C 	0.818	0.2871	0.045	-0.116
+Mof_H 	H 	0.8931	0.2296	0.0594	0.039
+Mof_H 	H 	0.8377	0.3238	0.2017	0.027
+Mof_N 	N 	0.8033	0.3912	0.873	-0.242
+Mof_H 	H 	0.7838	0.357	0.7275	0.082
+Mof_H 	H 	0.7334	0.4447	0.8605	0.088
+Mof_Ag	Ag	0.5	0	0.5	0.292
+Mof_Ag	Ag	1.53999e-33	0.5	0.5	0.293
+Mof_Ag	Ag	0.5	0	-0	0.245
+Mof_Ag	Ag	-0	0.5	-0	0.247
+_end

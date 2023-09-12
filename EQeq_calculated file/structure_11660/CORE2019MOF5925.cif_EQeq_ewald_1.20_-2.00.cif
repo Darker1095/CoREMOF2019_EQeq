@@ -1,0 +1,61 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.3429
+_cell_length_b	9.3429
+_cell_length_c	6.9927
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	120
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Al	Al	0.47892	0.64105	0.88953	6.479
+Mof_O 	O 	0.4287	0.6985	0.1263	-2.799
+Mof_H 	H 	0.4506	0.646	0.2295	0.579
+Mof_O 	O 	0.5729	0.8515	0.7925	-1.917
+Mof_O 	O 	0.4342	0.9671	0.0028	-1.836
+Mof_Al	Al	0.35895	0.83787	0.22286	7.132
+Mof_O 	O 	0.3015	0.7302	0.45963	-3.192
+Mof_H 	H 	0.354	0.8046	0.56283	0.572
+Mof_O 	O 	0.1485	0.7214	0.12583	-1.77
+Mof_O 	O 	0.0329	0.4671	0.33613	-1.853
+Mof_Al	Al	0.16213	0.52108	0.5562	7.904
+Mof_O 	O 	0.2698	0.5713	0.79297	-3.076
+Mof_H 	H 	0.1954	0.5494	0.89617	0.603
+Mof_O 	O 	0.2786	0.4271	0.45917	-1.86
+Mof_O 	O 	0.5329	0.5658	0.66947	-1.754
+Mof_Al	Al	0.64105	0.47892	0.11047	8.778
+Mof_O 	O 	0.6985	0.4287	0.8737	-3.577
+Mof_H 	H 	0.646	0.4506	0.7705	0.687
+Mof_O 	O 	0.8515	0.5729	0.2075	-2.222
+Mof_O 	O 	0.9671	0.4342	0.9972	-2.251
+Mof_Al	Al	0.83787	0.35895	0.77714	7.545
+Mof_O 	O 	0.7302	0.3015	0.54037	-3.308
+Mof_H 	H 	0.8046	0.354	0.43717	0.632
+Mof_O 	O 	0.7214	0.1485	0.87417	-1.939
+Mof_O 	O 	0.4671	0.0329	0.66387	-1.894
+Mof_Al	Al	0.52108	0.16213	0.4438	8.154
+Mof_O 	O 	0.5713	0.2698	0.20703	-3.514
+Mof_H 	H 	0.5494	0.1954	0.10383	0.841
+Mof_O 	O 	0.4271	0.2786	0.54083	-1.951
+Mof_O 	O 	0.5658	0.5329	0.33053	-2.069
+Mof_P 	P 	0.55067	-1.19385e-32	0.83333	1.808
+Mof_P 	P 	-1.52768e-17	0.55067	0.16667	2.165
+Mof_P 	P 	0.44933	0.44933	0.5	1.715
+Mof_F 	F 	0.6822	0.6822	-0	-2.197
+Mof_F 	F 	0.4318	0.4318	-0	-2.044
+Mof_F 	F 	0.3178	-5.96927e-33	0.33333	-2.119
+Mof_F 	F 	0.5682	-5.96927e-33	0.33333	-2.078
+Mof_F 	F 	-7.33972e-18	0.3178	0.66667	-2.182
+Mof_F 	F 	4.64267e-17	0.5682	0.66667	-2.192
+_end

@@ -1,0 +1,53 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     7.37    11.40    11.67  89.67  76.81  74.97 P1
+ATOM      1 Mg   MOL A   0       6.221   1.184   7.650  1.47                Mg
+ATOM      2 Mg   MOL A   0       6.429   1.219   4.129  1.47                Mg
+ATOM      3 O    MOL A   0       4.767   2.389   6.878 -0.55                O 
+ATOM      4 O    MOL A   0       4.676   2.164   4.666 -0.56                O 
+ATOM      5 O    MOL A   0       1.908   1.642   5.796 -0.62                O 
+ATOM      6 O    MOL A   0       7.634   2.741   4.762 -0.56                O 
+ATOM      7 O    MOL A   0       8.133   0.031   3.652 -0.68                O 
+ATOM      8 O    MOL A   0       5.353  10.074   2.505 -0.53                O 
+ATOM      9 O    MOL A   0       5.101   1.306   9.503 -0.44                O 
+ATOM     10 O    MOL A   0       4.647  -0.355   8.163 -0.67                O 
+ATOM     11 O    MOL A   0       6.715   0.225   5.942 -0.94                O 
+ATOM     12 H    MOL A   0       9.139  10.415   5.908  0.26                H 
+ATOM     13 C    MOL A   0       4.368   2.726   5.743  0.47                C 
+ATOM     14 C    MOL A   0       3.518   3.975   5.690 -0.22                C 
+ATOM     15 C    MOL A   0       4.173   5.188   5.853  0.11                C 
+ATOM     16 H    MOL A   0       5.095   5.191   5.976 -0.01                H 
+ATOM     17 C    MOL A   0       9.506   3.970   5.505  0.06                C 
+ATOM     18 C    MOL A   0       8.746   2.680   5.345  0.47                C 
+ATOM     19 C    MOL A   0       4.241  10.629   2.583  0.47                C 
+ATOM     20 C    MOL A   0       3.514  10.837   1.277 -0.11                C 
+ATOM     21 C    MOL A   0       1.331   0.261   0.204 -0.09                C 
+ATOM     22 H    MOL A   0       2.232   0.442   0.344  0.04                H 
+ATOM     23 C    MOL A   0       3.461  -0.209  10.274 -0.14                C 
+ATOM     24 C    MOL A   0       4.439   0.286   9.238  0.36                C 
+ATOM     25 Mg   MOL A   0       6.772   9.183   3.694  1.47                Mg
+ATOM     26 Mg   MOL A   0       6.564   9.148   7.215  1.47                Mg
+ATOM     27 O    MOL A   0       8.226   7.978   4.467 -0.51                O 
+ATOM     28 O    MOL A   0       8.317   8.203   6.678 -0.50                O 
+ATOM     29 O    MOL A   0      11.085   8.725   5.548 -0.42                O 
+ATOM     30 O    MOL A   0       5.359   7.626   6.582 -0.53                O 
+ATOM     31 O    MOL A   0       4.860  10.336   7.693 -0.64                O 
+ATOM     32 O    MOL A   0       7.640   0.293   8.839 -0.55                O 
+ATOM     33 O    MOL A   0       7.892   9.060   1.842 -0.41                O 
+ATOM     34 O    MOL A   0       8.346  10.721   3.181 -0.57                O 
+ATOM     35 O    MOL A   0       6.278  10.142   5.402 -0.79                O 
+ATOM     36 H    MOL A   0       3.854  -0.048   5.436  0.10                H 
+ATOM     37 C    MOL A   0       8.625   7.641   5.602  0.39                C 
+ATOM     38 C    MOL A   0       9.475   6.391   5.655  0.07                C 
+ATOM     39 C    MOL A   0       8.820   5.179   5.491 -0.08                C 
+ATOM     40 H    MOL A   0       7.898   5.175   5.368  0.06                H 
+ATOM     41 C    MOL A   0       3.487   6.397   5.839 -0.20                C 
+ATOM     42 C    MOL A   0       4.247   7.686   5.999  0.33                C 
+ATOM     43 C    MOL A   0       8.752  -0.262   8.761  0.46                C 
+ATOM     44 C    MOL A   0       9.479  -0.470  10.068 -0.13                C 
+ATOM     45 C    MOL A   0      11.662  10.105  11.141  0.12                C 
+ATOM     46 H    MOL A   0      10.761   9.925  11.001  0.04                H 
+ATOM     47 C    MOL A   0       9.532  10.576   1.070 -0.03                C 
+ATOM     48 C    MOL A   0       8.554  10.081   2.107  0.35                C 
+ATOM     49 Mg   MOL A   0       1.331  -0.322   5.672  1.46                Mg

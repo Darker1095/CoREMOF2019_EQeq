@@ -1,0 +1,38 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1    17.94     6.43     4.49  90.00  90.00  90.00 P1
+ATOM      1 O    MOL A   0       7.490   6.136   3.163 -0.39                O 
+ATOM      2 O    MOL A   0       1.478   3.509   3.163 -0.50                O 
+ATOM      3 O    MOL A   0      10.447   2.921   1.330 -0.63                O 
+ATOM      4 O    MOL A   0      16.459   0.294   1.330 -0.65                O 
+ATOM      5 O    MOL A   0      10.447   0.294   1.330 -0.69                O 
+ATOM      6 O    MOL A   0      16.459   2.921   1.330 -0.58                O 
+ATOM      7 O    MOL A   0       7.490   3.509   3.163 -0.48                O 
+ATOM      8 O    MOL A   0       1.478   6.136   3.163 -0.41                O 
+ATOM      9 Ni   MOL A   0       8.969   0.000   0.000  0.91                Ni
+ATOM     10 Ni   MOL A   0       0.000   3.215   0.000  0.91                Ni
+ATOM     11 Ni   MOL A   0       8.969   3.215   0.000  0.96                Ni
+ATOM     12 Ni   MOL A   0       0.000   0.000   0.000  0.85                Ni
+ATOM     13 Ni   MOL A   0      10.613   4.822   1.658  1.06                Ni
+ATOM     14 P    MOL A   0       7.365   4.822   2.305  0.41                P 
+ATOM     15 O    MOL A   0      10.201   4.822   3.698 -0.41                O 
+ATOM     16 O    MOL A   0       8.482   4.822   1.177 -0.64                O 
+ATOM     17 C    MOL A   0       5.788   4.822   1.537 -0.22                C 
+ATOM     18 Ni   MOL A   0      16.292   4.822   1.658  1.08                Ni
+ATOM     19 P    MOL A   0       1.604   4.822   2.305  0.41                P 
+ATOM     20 O    MOL A   0      16.705   4.822   3.698 -0.35                O 
+ATOM     21 O    MOL A   0       0.486   4.822   1.177 -0.69                O 
+ATOM     22 C    MOL A   0       3.180   4.822   1.537 -0.22                C 
+ATOM     23 Ni   MOL A   0       7.324   1.607   2.835  1.05                Ni
+ATOM     24 P    MOL A   0      10.572   1.607   2.188  0.39                P 
+ATOM     25 O    MOL A   0       7.736   1.607   0.795 -0.74                O 
+ATOM     26 O    MOL A   0       9.455   1.607   3.316 -0.51                O 
+ATOM     27 C    MOL A   0      12.149   1.607   2.957 -0.06                C 
+ATOM     28 Ni   MOL A   0       1.645   1.607   2.835  1.03                Ni
+ATOM     29 P    MOL A   0      16.333   1.607   2.188  0.39                P 
+ATOM     30 O    MOL A   0       1.232   1.607   0.795 -0.78                O 
+ATOM     31 O    MOL A   0      17.451   1.607   3.316 -0.41                O 
+ATOM     32 C    MOL A   0      14.757   1.607   2.957 -0.06                C 
+ATOM     33 C    MOL A   0       4.484   4.822   2.413  0.08                C 
+ATOM     34 C    MOL A   0      13.453   1.607   2.081 -0.12                C 

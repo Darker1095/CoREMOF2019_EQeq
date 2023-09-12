@@ -1,0 +1,53 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     7.87     9.29     9.46  93.36  114.59  81.90 P1
+ATOM      1 Cd   MOL A   0      -1.314   4.598   4.301  0.43                Cd
+ATOM      2 Cd   MOL A   0       2.622   4.598   4.301  0.45                Cd
+ATOM      3 Cd   MOL A   0       3.936   0.000   0.000  0.32                Cd
+ATOM      4 H    MOL A   0      -0.240   2.051   2.140  0.09                H 
+ATOM      5 H    MOL A   0       7.017   0.943   1.210  0.07                H 
+ATOM      6 H    MOL A   0      -0.846   0.726   4.043  0.09                H 
+ATOM      7 H    MOL A   0      -0.040   8.799   3.075  0.08                H 
+ATOM      8 H    MOL A   0       1.549   7.145   2.140  0.14                H 
+ATOM      9 H    MOL A   0       2.164   8.252   1.210  0.10                H 
+ATOM     10 H    MOL A   0       2.155   8.470   4.043  0.03                H 
+ATOM     11 H    MOL A   0       1.348   0.396   3.075  0.02                H 
+ATOM     12 H    MOL A   0       5.485   7.145   6.463  0.18                H 
+ATOM     13 H    MOL A   0      -1.772   8.252   7.393  0.14                H 
+ATOM     14 H    MOL A   0       6.091   8.470   4.560  0.03                H 
+ATOM     15 H    MOL A   0       5.284   0.396   5.528  0.03                H 
+ATOM     16 H    MOL A   0       3.696   2.051   6.463  0.14                H 
+ATOM     17 H    MOL A   0       3.081   0.943   7.393  0.11                H 
+ATOM     18 H    MOL A   0       3.090   0.726   4.560  0.08                H 
+ATOM     19 H    MOL A   0       3.897   8.799   5.528  0.08                H 
+ATOM     20 C    MOL A   0       5.596   1.962   2.261  0.15                C 
+ATOM     21 C    MOL A   0       6.954   1.360   2.082 -0.14                C 
+ATOM     22 C    MOL A   0      -0.693   0.310   3.181 -0.16                C 
+ATOM     23 C    MOL A   0       3.585   7.233   2.261  0.19                C 
+ATOM     24 C    MOL A   0       2.228   7.836   2.082 -0.29                C 
+ATOM     25 C    MOL A   0       2.002   8.886   3.181  0.04                C 
+ATOM     26 C    MOL A   0      -0.351   7.233   6.342  0.21                C 
+ATOM     27 C    MOL A   0      -1.709   7.836   6.521 -0.36                C 
+ATOM     28 C    MOL A   0       5.938   8.886   5.422  0.05                C 
+ATOM     29 C    MOL A   0       1.660   1.962   6.342  0.18                C 
+ATOM     30 C    MOL A   0       3.017   1.360   6.521 -0.23                C 
+ATOM     31 C    MOL A   0       3.243   0.310   5.422 -0.11                C 
+ATOM     32 N    MOL A   0       3.952   3.093   3.039 -0.06                N 
+ATOM     33 N    MOL A   0       3.466   2.255   2.165 -0.05                N 
+ATOM     34 N    MOL A   0       4.486   1.529   1.660 -0.13                N 
+ATOM     35 N    MOL A   0       5.299   2.939   3.131 -0.11                N 
+ATOM     36 N    MOL A   0       5.229   6.103   3.039 -0.06                N 
+ATOM     37 N    MOL A   0       5.715   6.941   2.165 -0.04                N 
+ATOM     38 N    MOL A   0       4.695   7.666   1.660 -0.13                N 
+ATOM     39 N    MOL A   0       3.882   6.257   3.131 -0.12                N 
+ATOM     40 N    MOL A   0       1.293   6.103   5.564 -0.06                N 
+ATOM     41 N    MOL A   0       1.779   6.941   6.438 -0.04                N 
+ATOM     42 N    MOL A   0       0.759   7.666   6.943 -0.12                N 
+ATOM     43 N    MOL A   0      -0.054   6.257   5.471 -0.12                N 
+ATOM     44 N    MOL A   0       0.016   3.093   5.564 -0.06                N 
+ATOM     45 N    MOL A   0      -0.470   2.255   6.438 -0.04                N 
+ATOM     46 N    MOL A   0       0.550   1.529   6.943 -0.12                N 
+ATOM     47 N    MOL A   0       1.363   2.939   5.471 -0.12                N 
+ATOM     48 Cl   MOL A   0       0.654   4.598   2.564 -0.39                Cl
+ATOM     49 Cl   MOL A   0       4.591   4.598   6.039 -0.36                Cl

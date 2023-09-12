@@ -1,0 +1,53 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     5.22    12.86    14.56  64.70  87.33  89.89 P1
+ATOM      1 U    MOL A   0       1.176  11.821   5.515  0.04                U 
+ATOM      2 P    MOL A   0       2.155   8.380   5.381  0.44                P 
+ATOM      3 P    MOL A   0       2.672  13.179   2.444  0.45                P 
+ATOM      4 O    MOL A   0       1.646   0.719   1.345 -0.17                O 
+ATOM      5 O    MOL A   0       3.934  12.536   1.862 -0.16                O 
+ATOM      6 O    MOL A   0       2.274   9.835   4.942 -0.15                O 
+ATOM      7 O    MOL A   0       2.674  13.712   5.782 -0.36                O 
+ATOM      8 P    MOL A   0       3.817  14.364   4.945  0.47                P 
+ATOM      9 O    MOL A   0       3.485   7.770   5.726 -0.20                O 
+ATOM     10 O    MOL A   0       4.962  13.395   4.798 -0.17                O 
+ATOM     11 O    MOL A   0       1.182   8.268   6.534 -0.14                O 
+ATOM     12 C    MOL A   0       1.359   7.490   3.964 -0.39                C 
+ATOM     13 H    MOL A   0       0.535   7.946   3.727  0.19                H 
+ATOM     14 H    MOL A   0       1.950   7.526   3.196  0.18                H 
+ATOM     15 Zn   MOL A   0       2.219  14.455   7.574  1.24                Zn
+ATOM     16 P    MOL A   0       0.992   5.770   4.348  0.46                P 
+ATOM     17 O    MOL A   0       2.071  12.235   3.433 -0.15                O 
+ATOM     18 O    MOL A   0       5.380   5.742   5.593 -0.37                O 
+ATOM     19 O    MOL A   0       2.242   4.950   4.378 -0.44                O 
+ATOM     20 O    MOL A   0       4.211   2.790   5.602 -0.48                O 
+ATOM     21 O    MOL A   0       5.274   5.259   3.113 -0.24                O 
+ATOM     22 C    MOL A   0       3.109   1.825   3.282 -0.40                C 
+ATOM     23 H    MOL A   0       2.329   2.396   3.363  0.17                H 
+ATOM     24 H    MOL A   0       3.770   2.296   2.750  0.18                H 
+ATOM     25 U    MOL A   0       4.748   7.260   7.633  0.04                U 
+ATOM     26 P    MOL A   0       3.769  10.702   7.766  0.44                P 
+ATOM     27 P    MOL A   0       3.252   5.902  10.703  0.45                P 
+ATOM     28 O    MOL A   0       4.277  18.363  11.803 -0.17                O 
+ATOM     29 O    MOL A   0       1.990   6.545  11.286 -0.16                O 
+ATOM     30 O    MOL A   0       3.650   9.247   8.205 -0.15                O 
+ATOM     31 O    MOL A   0       3.250   5.369   7.365 -0.36                O 
+ATOM     32 P    MOL A   0       2.107   4.717   8.203  0.47                P 
+ATOM     33 O    MOL A   0       2.439  11.311   7.422 -0.20                O 
+ATOM     34 O    MOL A   0       0.962   5.686   8.350 -0.17                O 
+ATOM     35 O    MOL A   0       4.741  10.813   6.613 -0.14                O 
+ATOM     36 C    MOL A   0       4.565  11.591   9.184 -0.39                C 
+ATOM     37 H    MOL A   0       5.388  11.136   9.420  0.19                H 
+ATOM     38 H    MOL A   0       3.974  11.556   9.951  0.18                H 
+ATOM     39 Zn   MOL A   0       3.705   4.627   5.573  1.24                Zn
+ATOM     40 P    MOL A   0       4.932  13.311   8.800  0.46                P 
+ATOM     41 O    MOL A   0       3.853   6.846   9.715 -0.15                O 
+ATOM     42 O    MOL A   0       0.544  13.339   7.555 -0.38                O 
+ATOM     43 O    MOL A   0       3.682  14.132   8.769 -0.44                O 
+ATOM     44 O    MOL A   0       1.713  16.291   7.545 -0.48                O 
+ATOM     45 O    MOL A   0       0.650  13.822  10.034 -0.24                O 
+ATOM     46 C    MOL A   0       2.814  17.256   9.866 -0.40                C 
+ATOM     47 H    MOL A   0       3.594  16.685   9.784  0.17                H 
+ATOM     48 H    MOL A   0       2.153  16.786  10.397  0.18                H 
+ATOM     49 U    MOL A   0       0.000   0.000   0.000  0.02                U 

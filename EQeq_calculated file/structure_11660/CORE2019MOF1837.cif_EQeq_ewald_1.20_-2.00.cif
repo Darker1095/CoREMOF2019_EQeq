@@ -1,0 +1,62 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	5.4134
+_cell_length_b	15.259
+_cell_length_c	9.0176
+_cell_angle_alpha	90
+_cell_angle_beta	94.704
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Mg	Mg	0.1792	0.67327	0.49178	1.472
+Mof_P 	P 	0.14944	0.81834	0.76618	0.601
+Mof_O 	O 	0.1125	0.78509	0.6065	-0.435
+Mof_O 	O 	0.9484	0.7866	0.8608	-0.46
+Mof_O 	O 	0.409	0.79556	0.831	-0.454
+Mof_O 	O 	0.1332	0.92252	0.7568	-0.447
+Mof_H 	H 	0.0159	0.9396	0.801	0.287
+Mof_O 	O 	0.2398	0.5441	0.4084	-0.418
+Mof_O 	O 	0.0821	0.40806	0.4014	-0.395
+Mof_C 	C 	0.0932	0.4859	0.4449	0.247
+Mof_Mg	Mg	0.3208	0.17327	0.00822	1.471
+Mof_P 	P 	0.35056	0.31834	0.73382	0.604
+Mof_O 	O 	0.3875	0.28509	0.8935	-0.433
+Mof_O 	O 	0.5516	0.2866	0.6392	-0.464
+Mof_O 	O 	0.091	0.29556	0.669	-0.452
+Mof_O 	O 	0.3668	0.42252	0.7432	-0.447
+Mof_H 	H 	0.4841	0.4396	0.699	0.289
+Mof_O 	O 	0.2602	0.0441	0.0916	-0.42
+Mof_O 	O 	0.4179	0.90806	0.0986	-0.395
+Mof_C 	C 	0.4068	0.9859	0.0551	0.251
+Mof_Mg	Mg	0.8208	0.32673	0.50822	1.471
+Mof_P 	P 	0.85056	0.18166	0.23382	0.6
+Mof_O 	O 	0.8875	0.21491	0.3935	-0.436
+Mof_O 	O 	0.0516	0.2134	0.1392	-0.461
+Mof_O 	O 	0.591	0.20444	0.169	-0.454
+Mof_O 	O 	0.8668	0.07748	0.2432	-0.447
+Mof_H 	H 	0.9841	0.0604	0.199	0.287
+Mof_O 	O 	0.7602	0.4559	0.5916	-0.418
+Mof_O 	O 	0.9179	0.59194	0.5986	-0.395
+Mof_C 	C 	0.9068	0.5141	0.5551	0.247
+Mof_Mg	Mg	0.6792	0.82673	0.99178	1.471
+Mof_P 	P 	0.64944	0.68166	0.26618	0.604
+Mof_O 	O 	0.6125	0.71491	0.1065	-0.433
+Mof_O 	O 	0.4484	0.7134	0.3608	-0.464
+Mof_O 	O 	0.909	0.70444	0.331	-0.452
+Mof_O 	O 	0.6332	0.57748	0.2568	-0.447
+Mof_H 	H 	0.5159	0.5604	0.301	0.289
+Mof_O 	O 	0.7398	0.9559	0.9084	-0.42
+Mof_O 	O 	0.5821	0.09194	0.9014	-0.395
+Mof_C 	C 	0.5932	0.0141	0.9449	0.251
+_end

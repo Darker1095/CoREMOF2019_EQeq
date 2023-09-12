@@ -1,0 +1,66 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.515
+_cell_length_b	9.515
+_cell_length_c	14.351
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_O 	O 	0.0647	0.1684	0.0636	-0.614
+Mof_O 	O 	0.8832	0.1557	0.1788	-0.333
+Mof_O 	O 	0.5647	0.6684	0.5636	-0.385
+Mof_O 	O 	0.3832	0.6557	0.6788	-0.252
+Mof_O 	O 	0.9353	0.8316	0.0636	-0.243
+Mof_O 	O 	0.1168	0.8443	0.1788	-0.189
+Mof_O 	O 	0.4353	0.3316	0.5636	-0.423
+Mof_O 	O 	0.6168	0.3443	0.6788	-0.235
+Mof_O 	O 	0.1684	0.9353	0.9364	-0.232
+Mof_O 	O 	0.1557	0.1168	0.8212	-0.246
+Mof_O 	O 	0.6684	0.4353	0.4364	-0.4
+Mof_O 	O 	0.6557	0.6168	0.3212	-0.238
+Mof_O 	O 	0.8316	0.0647	0.9364	-0.448
+Mof_O 	O 	0.8443	0.8832	0.8212	-0.216
+Mof_O 	O 	0.3316	0.5647	0.4364	-0.413
+Mof_O 	O 	0.3443	0.3832	0.3212	-0.28
+Mof_O 	O 	0.4353	0.1684	0.6864	-0.437
+Mof_O 	O 	0.6168	0.1557	0.5712	-0.279
+Mof_O 	O 	0.9353	0.6684	0.1864	-0.248
+Mof_O 	O 	0.1168	0.6557	0.0712	-0.249
+Mof_O 	O 	0.5647	0.8316	0.6864	-0.351
+Mof_O 	O 	0.3832	0.8443	0.5712	-0.22
+Mof_O 	O 	0.0647	0.3316	0.1864	-0.569
+Mof_O 	O 	0.8832	0.3443	0.0712	-0.316
+Mof_O 	O 	0.3316	0.9353	0.8136	-0.254
+Mof_O 	O 	0.3443	0.1168	0.9288	-0.192
+Mof_O 	O 	0.8316	0.4353	0.3136	-0.37
+Mof_O 	O 	0.8443	0.6168	0.4288	-0.192
+Mof_O 	O 	0.6684	0.0647	0.8136	-0.517
+Mof_O 	O 	0.6557	0.8832	0.9288	-0.236
+Mof_O 	O 	0.1684	0.5647	0.3136	-0.431
+Mof_O 	O 	0.1557	0.3832	0.4288	-0.308
+Mof_S 	S 	0.9694	0.25	0.125	1.025
+Mof_S 	S 	0.0306	0.75	0.125	0.374
+Mof_S 	S 	0.5306	0.25	0.625	0.693
+Mof_S 	S 	0.25	0.0306	0.875	0.374
+Mof_S 	S 	0.75	0.5306	0.375	0.676
+Mof_S 	S 	0.75	0.9694	0.875	0.968
+Mof_S 	S 	0.25	0.4694	0.375	0.703
+Mof_S 	S 	0.4694	0.75	0.625	0.68
+Mof_Zn	Zn	-0	0	-0	1.144
+Mof_Zn	Zn	0.5	0.5	0.5	1.253
+Mof_Zn	Zn	0.5	-9.7145e-33	0.75	1.214
+Mof_Zn	Zn	-3.44349e-33	0.5	0.25	1.212
+_end

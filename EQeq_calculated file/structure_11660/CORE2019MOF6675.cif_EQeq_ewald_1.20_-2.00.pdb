@@ -1,0 +1,36 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.09     9.38     9.95  84.27  65.44  63.37 P1
+ATOM      1 Ce   MOL A   0       6.401   3.670   4.140  2.33                Ce
+ATOM      2 O    MOL A   0       5.847   4.155   6.644 -0.47                O 
+ATOM      3 O    MOL A   0       7.074   2.347   6.294 -0.45                O 
+ATOM      4 O    MOL A   0       9.023   2.489   3.963 -0.63                O 
+ATOM      5 O    MOL A   0       7.199   1.349   3.492 -0.53                O 
+ATOM      6 O    MOL A   0       5.833   6.082   3.604 -0.54                O 
+ATOM      7 O    MOL A   0      13.108   5.007   4.213 -0.67                O 
+ATOM      8 C    MOL A   0       6.456   3.147   7.076  0.31                C 
+ATOM      9 C    MOL A   0       6.513   2.864   8.548 -0.14                C 
+ATOM     10 H    MOL A   0       6.979   2.109   8.829  0.07                H 
+ATOM     11 C    MOL A   0       8.433   1.383   3.707  0.42                C 
+ATOM     12 C    MOL A   0       9.256   0.156   3.680 -0.15                C 
+ATOM     13 H    MOL A   0      10.174   0.230   3.553  0.08                H 
+ATOM     14 C    MOL A   0      12.924   7.327   3.831 -0.17                C 
+ATOM     15 H    MOL A   0      12.000   7.266   3.922  0.09                H 
+ATOM     16 C    MOL A   0      13.705   6.078   3.862  0.43                C 
+ATOM     17 Ce   MOL A   0      11.032   3.753   4.855  2.33                Ce
+ATOM     18 O    MOL A   0      11.586   3.268   2.351 -0.47                O 
+ATOM     19 O    MOL A   0      10.359   5.076   2.701 -0.45                O 
+ATOM     20 O    MOL A   0       8.410   4.934   5.032 -0.63                O 
+ATOM     21 O    MOL A   0      10.234   6.074   5.503 -0.53                O 
+ATOM     22 O    MOL A   0      11.600   1.341   5.391 -0.54                O 
+ATOM     23 O    MOL A   0       4.325   2.417   4.782 -0.67                O 
+ATOM     24 C    MOL A   0      10.977   4.276   1.919  0.31                C 
+ATOM     25 C    MOL A   0      10.920   4.559   0.447 -0.14                C 
+ATOM     26 H    MOL A   0      10.454   5.314   0.166  0.07                H 
+ATOM     27 C    MOL A   0       9.000   6.040   5.288  0.42                C 
+ATOM     28 C    MOL A   0       8.177   7.268   5.315 -0.15                C 
+ATOM     29 H    MOL A   0       7.259   7.193   5.442  0.08                H 
+ATOM     30 C    MOL A   0       4.509   0.097   5.164 -0.17                C 
+ATOM     31 H    MOL A   0       5.433   0.157   5.073  0.09                H 
+ATOM     32 C    MOL A   0       3.728   1.345   5.132  0.43                C 

@@ -1,0 +1,70 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	9.9197
+_cell_length_b	9.9197
+_cell_length_c	6.3434
+_cell_angle_alpha	90
+_cell_angle_beta	90
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_C 	C 	0.22268	0.1752	0.16735	0.003
+Mof_H 	H 	0.20153	0.1225	0.29024	0.042
+Mof_C 	C 	0.77732	0.8248	0.16735	0.009
+Mof_H 	H 	0.79847	0.8775	0.29024	0.061
+Mof_C 	C 	0.3248	0.72268	0.16735	0.009
+Mof_H 	H 	0.3775	0.70153	0.29024	0.048
+Mof_C 	C 	0.6752	0.27732	0.16735	0.008
+Mof_H 	H 	0.6225	0.29847	0.29024	0.046
+Mof_C 	C 	0.27732	0.6752	0.83265	0.053
+Mof_H 	H 	0.29847	0.6225	0.70976	0.038
+Mof_C 	C 	0.72268	0.3248	0.83265	0.054
+Mof_H 	H 	0.70153	0.3775	0.70976	0.039
+Mof_C 	C 	0.1752	0.22268	0.83265	0.054
+Mof_H 	H 	0.1225	0.20153	0.70976	0.033
+Mof_C 	C 	0.8248	0.77732	0.83265	0.046
+Mof_H 	H 	0.8775	0.79847	0.70976	0.053
+Mof_C 	C 	0.27732	0.3248	0.83265	0.05
+Mof_H 	H 	0.29847	0.3775	0.70976	0.037
+Mof_C 	C 	0.72268	0.6752	0.83265	0.056
+Mof_H 	H 	0.70153	0.6225	0.70976	0.039
+Mof_C 	C 	0.1752	0.77732	0.83265	0.05
+Mof_H 	H 	0.1225	0.79847	0.70976	0.04
+Mof_C 	C 	0.8248	0.22268	0.83265	0.05
+Mof_H 	H 	0.8775	0.20153	0.70976	0.047
+Mof_C 	C 	0.22268	0.8248	0.16735	0.006
+Mof_H 	H 	0.20153	0.8775	0.29024	0.055
+Mof_C 	C 	0.77732	0.1752	0.16735	0.005
+Mof_H 	H 	0.79847	0.1225	0.29024	0.049
+Mof_C 	C 	0.3248	0.27732	0.16735	0.003
+Mof_H 	H 	0.3775	0.29847	0.29024	0.046
+Mof_C 	C 	0.6752	0.72268	0.16735	0.013
+Mof_H 	H 	0.6225	0.70153	0.29024	0.048
+Mof_Ni	Ni	-0	0	-0	1.108
+Mof_Ni	Ni	0.5	0.5	-0	1.128
+Mof_F 	F 	-1.74651e-33	-2.52762e-33	0.32578	-0.681
+Mof_F 	F 	0.5	0.5	0.32578	-0.662
+Mof_F 	F 	0.5	0.5	0.67422	-0.648
+Mof_F 	F 	1.61654e-33	0	0.67422	-0.664
+Mof_N 	N 	0.15047	0.15047	-0	-0.222
+Mof_N 	N 	0.84953	0.84953	-0	-0.195
+Mof_N 	N 	0.34953	0.65047	-0	-0.215
+Mof_N 	N 	0.65047	0.34953	-0	-0.214
+Mof_N 	N 	0.34953	0.34953	-0	-0.216
+Mof_N 	N 	0.65047	0.65047	-0	-0.213
+Mof_N 	N 	0.15047	0.84953	-0	-0.208
+Mof_N 	N 	0.84953	0.15047	-0	-0.208
+Mof_H 	H 	1.19882e-33	0	0.5	0.456
+Mof_H 	H 	0.5	0.5	0.5	0.464
+_end

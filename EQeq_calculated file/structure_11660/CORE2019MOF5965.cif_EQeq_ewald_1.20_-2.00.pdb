@@ -1,0 +1,22 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     6.41     6.80     7.66  111.75  95.86  91.20 P1
+ATOM      1 Yb   MOL A   0       5.457   5.121   0.485  1.68                Yb
+ATOM      2 Yb   MOL A   0       0.025  -1.175   6.584  1.68                Yb
+ATOM      3 P    MOL A   0       1.249   2.286   6.923  0.50                P 
+ATOM      4 P    MOL A   0       4.234   1.659   0.146  0.50                P 
+ATOM      5 H    MOL A   0       1.594   2.621   5.640 -0.06                H 
+ATOM      6 H    MOL A   0       3.889   1.324   1.429 -0.06                H 
+ATOM      7 C    MOL A   0      -0.155   4.705   3.538  0.27                C 
+ATOM      8 C    MOL A   0       5.637  -0.759   3.531  0.27                C 
+ATOM      9 O    MOL A   0       1.099   6.309   0.250 -0.55                O 
+ATOM     10 O    MOL A   0       3.239   5.002   0.755 -0.46                O 
+ATOM     11 O    MOL A   0       0.319   1.075   6.897 -0.56                O 
+ATOM     12 O    MOL A   0      -0.061   4.146   2.439 -0.41                O 
+ATOM     13 O    MOL A   0       5.193  -0.384   2.437 -0.41                O 
+ATOM     14 O    MOL A   0       4.383  -2.363   6.819 -0.55                O 
+ATOM     15 O    MOL A   0       2.243  -1.056   6.314 -0.46                O 
+ATOM     16 O    MOL A   0       5.163   2.871   0.172 -0.56                O 
+ATOM     17 O    MOL A   0       5.544  -0.200   4.629 -0.41                O 
+ATOM     18 O    MOL A   0       0.289   4.329   4.632 -0.41                O 

@@ -1,0 +1,21 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     8.85     8.85    11.55  67.48  67.48  60.00 P1
+ATOM      1 Cd   MOL A   0       0.000   0.000   0.000  0.25                Cd
+ATOM      2 Cd   MOL A   0       8.849   5.109   7.983  0.29                Cd
+ATOM      3 Cd   MOL A   0       8.849   5.109   2.379  0.28                Cd
+ATOM      4 C    MOL A   0       8.849   5.109   5.799 -0.06                C 
+ATOM      5 C    MOL A   0       8.849   5.109   4.563 -0.06                C 
+ATOM      6 C    MOL A   0       8.849   7.209   8.643  0.01                C 
+ATOM      7 C    MOL A   0      10.668   4.059   8.643  0.01                C 
+ATOM      8 C    MOL A   0       7.030   4.059   8.643 -0.01                C 
+ATOM      9 C    MOL A   0      10.668   6.159   1.719  0.01                C 
+ATOM     10 C    MOL A   0       7.030   6.159   1.719 -0.01                C 
+ATOM     11 C    MOL A   0       8.849   3.009   1.719 -0.01                C 
+ATOM     12 N    MOL A   0       8.849   8.262   9.081 -0.10                N 
+ATOM     13 N    MOL A   0      11.580   3.532   9.081 -0.10                N 
+ATOM     14 N    MOL A   0       6.118   3.532   9.081 -0.12                N 
+ATOM     15 N    MOL A   0      11.580   6.686   1.281 -0.10                N 
+ATOM     16 N    MOL A   0       6.118   6.686   1.281 -0.12                N 
+ATOM     17 N    MOL A   0       8.849   1.956   1.281 -0.12                N 

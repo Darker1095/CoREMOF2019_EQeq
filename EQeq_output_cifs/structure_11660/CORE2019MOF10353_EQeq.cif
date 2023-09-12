@@ -1,0 +1,62 @@
+data_functionalizedCrystal
+_audit_creation_method	'EQeq! by Chris Wilmer'
+_symmetry_space_group_name_H-M	'P1'
+_symmetry_Int_Tables_number	1
+_symmetry_cell_setting	triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a	15.278
+_cell_length_b	7.664
+_cell_length_c	15.553
+_cell_angle_alpha	90
+_cell_angle_beta	105.41
+_cell_angle_gamma	90
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_charge
+Mof_Cd	Cd	0.31942	0.56599	0.15534	0.285
+Mof_C 	C 	0.2638	0.704	0.0291	-0.028
+Mof_C 	C 	0.4631	0.6063	0.2276	-0.066
+Mof_N 	N 	0.2922	0.8148	0.2343	-0.14
+Mof_C 	C 	0.2466	0.392	0.2277	-0.078
+Mof_C 	C 	0.2078	0.3148	0.2657	-0.049
+Mof_N 	N 	0.2362	0.796	0.9709	-0.135
+Mof_Cd	Cd	0.81942	0.06599	0.15534	0.284
+Mof_C 	C 	0.7638	0.204	0.0291	-0.03
+Mof_C 	C 	0.9631	0.1063	0.2276	-0.068
+Mof_N 	N 	0.7922	0.3148	0.2343	-0.14
+Mof_C 	C 	0.7466	0.892	0.2277	-0.077
+Mof_C 	C 	0.7078	0.8148	0.2657	-0.049
+Mof_N 	N 	0.7362	0.296	0.9709	-0.134
+Mof_Cd	Cd	0.68058	0.56599	0.34466	0.265
+Mof_C 	C 	0.7362	0.704	0.4709	-0.017
+Mof_C 	C 	0.5369	0.6063	0.2724	-0.072
+Mof_C 	C 	0.7534	0.392	0.2723	-0.013
+Mof_N 	N 	0.7638	0.796	0.5291	-0.149
+Mof_Cd	Cd	0.18058	0.06599	0.34466	0.264
+Mof_C 	C 	0.2362	0.204	0.4709	-0.017
+Mof_C 	C 	0.0369	0.1063	0.2724	-0.071
+Mof_C 	C 	0.2534	0.892	0.2723	-0.012
+Mof_N 	N 	0.2638	0.296	0.5291	-0.149
+Mof_Cd	Cd	0.68058	0.43401	0.84466	0.311
+Mof_C 	C 	0.5369	0.3937	0.7724	-0.063
+Mof_N 	N 	0.7078	0.1852	0.7657	-0.137
+Mof_C 	C 	0.7534	0.608	0.7723	-0.077
+Mof_C 	C 	0.7922	0.6852	0.7343	-0.043
+Mof_Cd	Cd	0.18058	0.93401	0.84466	0.311
+Mof_C 	C 	0.0369	0.8937	0.7724	-0.062
+Mof_N 	N 	0.2078	0.6852	0.7657	-0.137
+Mof_C 	C 	0.2534	0.108	0.7723	-0.076
+Mof_C 	C 	0.2922	0.1852	0.7343	-0.043
+Mof_Cd	Cd	0.31942	0.43401	0.65534	0.287
+Mof_C 	C 	0.4631	0.3937	0.7276	-0.07
+Mof_C 	C 	0.2466	0.608	0.7277	-0.01
+Mof_Cd	Cd	0.81942	0.93401	0.65534	0.287
+Mof_C 	C 	0.9631	0.8937	0.7276	-0.071
+Mof_C 	C 	0.7466	0.108	0.7277	-0.011
+_end

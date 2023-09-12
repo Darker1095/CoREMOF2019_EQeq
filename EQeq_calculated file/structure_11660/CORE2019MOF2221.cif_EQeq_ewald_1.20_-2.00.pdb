@@ -1,0 +1,42 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.15     9.24     9.35  78.23  87.49  87.18 P1
+ATOM      1 P    MOL A   0       6.317   9.220   6.204  1.77                P 
+ATOM      2 P    MOL A   0       7.532   1.224   0.964  1.77                P 
+ATOM      3 P    MOL A   0       6.299   6.438   1.263  1.44                P 
+ATOM      4 Al   MOL A   0       6.321   8.917   3.106  6.98                Al
+ATOM      5 Al   MOL A   0       8.437   9.753   8.474  6.38                Al
+ATOM      6 Al   MOL A   0       4.674   7.543   8.302  6.47                Al
+ATOM      7 F    MOL A   0       6.146   6.371   8.407 -2.09                F 
+ATOM      8 O    MOL A   0       5.251   6.830   0.239 -1.71                O 
+ATOM      9 O    MOL A   0       7.626   2.170   8.939 -1.99                O 
+ATOM     10 O    MOL A   0       6.240   4.987   1.710 -1.45                O 
+ATOM     11 O    MOL A   0       6.845   2.545   0.796 -1.71                O 
+ATOM     12 O    MOL A   0       7.137   0.558   2.283 -2.13                O 
+ATOM     13 O    MOL A   0       5.345   8.174   6.710 -1.74                O 
+ATOM     14 O    MOL A   0       9.049   1.460   1.024 -1.92                O 
+ATOM     15 O    MOL A   0       7.693   6.765   0.648 -1.86                O 
+ATOM     16 O    MOL A   0       7.592   9.307   7.047 -1.99                O 
+ATOM     17 O    MOL A   0       6.771   8.841   4.785 -2.02                O 
+ATOM     18 O    MOL A   0       6.169   7.308   2.533 -2.04                O 
+ATOM     19 O    MOL A   0       5.217   1.371   6.173 -2.17                O 
+ATOM     20 P    MOL A   0       3.701   1.896   2.939  1.77                P 
+ATOM     21 P    MOL A   0       2.486   9.892   8.179  1.77                P 
+ATOM     22 P    MOL A   0       3.720   4.678   7.880  1.44                P 
+ATOM     23 Al   MOL A   0       3.698   2.199   6.037  6.98                Al
+ATOM     24 Al   MOL A   0       1.582   1.363   0.669  6.38                Al
+ATOM     25 Al   MOL A   0       5.345   3.573   0.841  6.47                Al
+ATOM     26 F    MOL A   0       3.872   4.745   0.736 -2.09                F 
+ATOM     27 O    MOL A   0       4.767   4.286   8.904 -1.71                O 
+ATOM     28 O    MOL A   0       2.393   8.946   0.204 -1.99                O 
+ATOM     29 O    MOL A   0       3.778   6.129   7.433 -1.45                O 
+ATOM     30 O    MOL A   0       3.174   8.571   8.347 -1.71                O 
+ATOM     31 O    MOL A   0       2.882  10.558   6.860 -2.13                O 
+ATOM     32 O    MOL A   0       4.674   2.942   2.433 -1.74                O 
+ATOM     33 O    MOL A   0       0.970   9.656   8.119 -1.92                O 
+ATOM     34 O    MOL A   0       2.326   4.351   8.495 -1.86                O 
+ATOM     35 O    MOL A   0       2.426   1.809   2.096 -1.99                O 
+ATOM     36 O    MOL A   0       3.247   2.275   4.358 -2.02                O 
+ATOM     37 O    MOL A   0       3.850   3.808   6.610 -2.04                O 
+ATOM     38 O    MOL A   0       4.801   9.745   2.970 -2.17                O 

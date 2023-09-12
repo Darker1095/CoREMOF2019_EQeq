@@ -1,0 +1,53 @@
+TITLE       YourMoleculeNameHere            
+REMARK   4
+REMARK   4      COMPLIES WITH FORMAT V. 2.2, 16-DEC-1996
+CRYST1     9.17    10.85    11.35  113.48  98.73  98.02 P1
+ATOM      1 Zn   MOL A   0       6.270   2.299   3.911  1.20                Zn
+ATOM      2 O    MOL A   0       5.853   0.393   4.110 -0.48                O 
+ATOM      3 O    MOL A   0       5.542   3.227   2.393 -0.50                O 
+ATOM      4 O    MOL A   0       3.684   4.011   3.382 -0.47                O 
+ATOM      5 O    MOL A   0       3.800   1.187   4.355 -0.49                O 
+ATOM      6 N    MOL A   0       6.850   3.655   6.536 -0.23                N 
+ATOM      7 C    MOL A   0       3.034   5.520   1.125 -0.02                C 
+ATOM      8 H    MOL A   0       2.501   5.618   1.880  0.05                H 
+ATOM      9 C    MOL A   0       4.626   0.248   4.383  0.38                C 
+ATOM     10 N    MOL A   0       4.719   3.428   6.150 -0.19                N 
+ATOM     11 C    MOL A   0       4.453   3.911   2.417  0.38                C 
+ATOM     12 C    MOL A   0       4.929   4.529   0.017 -0.02                C 
+ATOM     13 H    MOL A   0       5.666   3.961   0.031  0.05                H 
+ATOM     14 N    MOL A   0       5.934   3.237   5.661 -0.22                N 
+ATOM     15 C    MOL A   0       4.154  -1.122   4.735 -0.09                C 
+ATOM     16 C    MOL A   0       4.142   4.666   1.159 -0.09                C 
+ATOM     17 C    MOL A   0       3.510   8.520   4.601 -0.02                C 
+ATOM     18 H    MOL A   0       4.378   8.642   4.291  0.05                H 
+ATOM     19 C    MOL A   0       6.182   4.124   7.603  0.01                C 
+ATOM     20 H    MOL A   0      -2.611   4.486   8.370  0.01                H 
+ATOM     21 C    MOL A   0       2.880  -1.315   5.196 -0.01                C 
+ATOM     22 H    MOL A   0       2.309  -0.586   5.286  0.04                H 
+ATOM     23 C    MOL A   0       4.872   3.981   7.368  0.01                C 
+ATOM     24 H    MOL A   0       4.186   4.221   7.947  0.03                H 
+ATOM     25 Zn   MOL A   0      -0.330   3.637   6.221  1.20                Zn
+ATOM     26 O    MOL A   0       0.087   5.543   6.021 -0.48                O 
+ATOM     27 O    MOL A   0       0.398   2.708   7.739 -0.50                O 
+ATOM     28 O    MOL A   0       2.256   1.925   6.750 -0.47                O 
+ATOM     29 O    MOL A   0       2.140   4.749   5.777 -0.49                O 
+ATOM     30 N    MOL A   0      -0.910   2.281   3.596 -0.23                N 
+ATOM     31 C    MOL A   0       2.906   0.416   9.007 -0.02                C 
+ATOM     32 H    MOL A   0       3.439   0.318   8.251  0.05                H 
+ATOM     33 C    MOL A   0       1.314   5.687   5.749  0.38                C 
+ATOM     34 N    MOL A   0       1.221   2.508   3.982 -0.19                N 
+ATOM     35 C    MOL A   0       1.487   2.025   7.714  0.38                C 
+ATOM     36 C    MOL A   0       1.011   1.407  10.115 -0.02                C 
+ATOM     37 H    MOL A   0       0.274   1.974  10.100  0.05                H 
+ATOM     38 N    MOL A   0       0.007   2.699   4.471 -0.22                N 
+ATOM     39 C    MOL A   0       1.786   7.057   5.397 -0.09                C 
+ATOM     40 C    MOL A   0       1.798   1.270   8.973 -0.09                C 
+ATOM     41 C    MOL A   0       2.430  -2.585   5.531 -0.02                C 
+ATOM     42 H    MOL A   0       1.562  -2.707   5.841  0.05                H 
+ATOM     43 C    MOL A   0      -0.242   1.811   2.529  0.01                C 
+ATOM     44 H    MOL A   0       8.551   1.449   1.762  0.01                H 
+ATOM     45 C    MOL A   0       3.060   7.250   4.936 -0.01                C 
+ATOM     46 H    MOL A   0       3.631   6.522   4.846  0.04                H 
+ATOM     47 C    MOL A   0       1.068   1.954   2.764  0.01                C 
+ATOM     48 H    MOL A   0       1.754   1.715   2.184  0.03                H 
+ATOM     49 Zn   MOL A   0       2.970   2.968   5.066  1.22                Zn

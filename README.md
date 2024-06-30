@@ -1,5 +1,5 @@
 
-These softwares and datebases were required,including **EQeq, Openbabel**, and **CoRE_MOF2019 database**.
+These softwares and databases were required,including **EQeq, Openbabel**, and **CoRE_MOF2019 database**.
 
 The version of **Open Babel** is Open Babel 3.1.0, EQeq software is from https://github.com/numat/EQeq, and CoREMOF2019 files were from **2019-11-01-ASR-public_12020.csv** and **2019-11-01-ASR-public_12020.tar.gz** (https://zenodo.org/record/3677685)
 
